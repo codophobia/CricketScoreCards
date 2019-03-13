@@ -1,0 +1,419 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 1.2, 
+                    "score": 1, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 5.4, 
+                    "score": 9, 
+                    "name": "HH Gibbs", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 19.5, 
+                    "score": 81, 
+                    "name": "AB de Villiers", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 28.2, 
+                    "score": 118, 
+                    "name": "JH Kallis", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 37.4, 
+                    "score": 170, 
+                    "name": "MV Boucher", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 40.2, 
+                    "score": 173, 
+                    "name": "JM Kemp", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 49.3, 
+                    "score": 245, 
+                    "name": "HH Dippenaar", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 49.5, 
+                    "score": 246, 
+                    "name": "R Telemachus", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 50.0, 
+                    "score": 246, 
+                    "name": "AJ Hall", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 246, 
+                "bowlteam": "Australia", 
+                "batteam": "South Africa", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 1, 
+                    "balls": 3, 
+                    "name": "GC Smith", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled NW Bracken"
+                }, 
+                {
+                    "runs": 101, 
+                    "balls": 145, 
+                    "name": "HH Dippenaar", 
+                    "fours": 9, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Clarke bowled B Lee"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 10, 
+                    "name": "HH Gibbs", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled NW Bracken"
+                }, 
+                {
+                    "runs": 38, 
+                    "balls": 45, 
+                    "name": "AB de Villiers", 
+                    "fours": 4, 
+                    "six": 2, 
+                    "dismissal": "lbw bowled ML Lewis"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 27, 
+                    "name": "JH Kallis", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "caught MEK Hussey bowled A Symonds"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 27, 
+                    "name": "MV Boucher", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled ML Lewis"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 9, 
+                    "name": "JM Kemp", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled SR Clark"
+                }, 
+                {
+                    "runs": 53, 
+                    "balls": 33, 
+                    "name": "SM Pollock", 
+                    "fours": 8, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "R Telemachus", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out AC Gilchrist "
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "AJ Hall", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out AC Gilchrist "
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 55, 
+                    "overs": 10.0, 
+                    "name": "B Lee", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 36, 
+                    "overs": 10.0, 
+                    "name": "NW Bracken", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 49, 
+                    "overs": 10.0, 
+                    "name": "SR Clark", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 38, 
+                    "overs": 10.0, 
+                    "name": "ML Lewis", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 31, 
+                    "overs": 6.0, 
+                    "name": "A Symonds", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 15, 
+                    "overs": 2.0, 
+                    "name": "MEK Hussey", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 2.0, 
+                    "name": "MJ Clarke", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 17.5, 
+                    "score": 87, 
+                    "name": "SM Katich", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 21.1, 
+                    "score": 99, 
+                    "name": "AC Gilchrist", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 22.2, 
+                    "score": 100, 
+                    "name": "DR Martyn", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 22.4, 
+                    "score": 101, 
+                    "name": "RT Ponting", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 31.3, 
+                    "score": 140, 
+                    "name": "MJ Clarke", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 39.5, 
+                    "score": 192, 
+                    "name": "MEK Hussey", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 43.0, 
+                    "score": 218, 
+                    "name": "A Symonds", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 43.1, 
+                    "score": 218, 
+                    "name": "B Lee", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 48.0, 
+                    "score": 241, 
+                    "name": "NW Bracken", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 247, 
+                "bowlteam": "South Africa", 
+                "batteam": "Australia", 
+                "wickets": 9, 
+                "inning_no": 2, 
+                "overs": 49.1
+            }, 
+            "batting": [
+                {
+                    "runs": 45, 
+                    "balls": 44, 
+                    "name": "AC Gilchrist", 
+                    "fours": 8, 
+                    "six": 1, 
+                    "dismissal": "caught AB de Villiers bowled JH Kallis"
+                }, 
+                {
+                    "runs": 46, 
+                    "balls": 68, 
+                    "name": "SM Katich", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught JH Kallis bowled AJ Hall"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 17, 
+                    "name": "RT Ponting", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled R Telemachus"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 7, 
+                    "name": "DR Martyn", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled R Telemachus"
+                }, 
+                {
+                    "runs": 76, 
+                    "balls": 71, 
+                    "name": "A Symonds", 
+                    "fours": 9, 
+                    "six": 2, 
+                    "dismissal": "bowled R Telemachus"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 23, 
+                    "name": "MJ Clarke", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled JH Kallis"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 24, 
+                    "name": "MEK Hussey", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "run out AJ Hall "
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 8, 
+                    "name": "B Lee", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled M Ntini"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 14, 
+                    "name": "NW Bracken", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled AJ Hall"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 18, 
+                    "name": "SR Clark", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 4, 
+                    "name": "ML Lewis", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 22, 
+                    "overs": 5.0, 
+                    "name": "SM Pollock", 
+                    "maiden": 2, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 50, 
+                    "overs": 10.0, 
+                    "name": "M Ntini", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 52, 
+                    "overs": 9.1, 
+                    "name": "AJ Hall", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 34, 
+                    "overs": 10.0, 
+                    "name": "R Telemachus", 
+                    "maiden": 1, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 46, 
+                    "overs": 9.0, 
+                    "name": "JH Kallis", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 17, 
+                    "overs": 4.0, 
+                    "name": "JM Kemp", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 23, 
+                    "overs": 2.0, 
+                    "name": "GC Smith", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Durban", 
+        "venue": "Kingsmead", 
+        "teams": "South Africa vs Australia", 
+        "mtype": "ODI", 
+        "mom": "HH Dippenaar", 
+        "date": "2006-03-10", 
+        "id": "238199"
+    }
+}

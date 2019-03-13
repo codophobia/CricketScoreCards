@@ -1,0 +1,420 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 5.2, 
+                    "score": 15, 
+                    "name": "MJ Guptill", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 9.2, 
+                    "score": 27, 
+                    "name": "KS Williamson", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 15.2, 
+                    "score": 46, 
+                    "name": "BJ Watling", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 21.5, 
+                    "score": 68, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 33.2, 
+                    "score": 129, 
+                    "name": "GD Elliott", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 43.0, 
+                    "score": 196, 
+                    "name": "C Munro", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 43.3, 
+                    "score": 199, 
+                    "name": "NL McCullum", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 45.2, 
+                    "score": 216, 
+                    "name": "JDS Neesham", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 48.1, 
+                    "score": 234, 
+                    "name": "KD Mills", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 260, 
+                "bowlteam": "South Africa", 
+                "batteam": "New Zealand", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 49.5
+            }, 
+            "batting": [
+                {
+                    "runs": 5, 
+                    "balls": 18, 
+                    "name": "MJ Guptill", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught CA Ingram bowled LL Tsotsobe"
+                }, 
+                {
+                    "runs": 20, 
+                    "balls": 40, 
+                    "name": "BJ Watling", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught F du Plessis bowled R McLaren"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 17, 
+                    "name": "KS Williamson", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Q de Kock bowled LL Tsotsobe"
+                }, 
+                {
+                    "runs": 54, 
+                    "balls": 67, 
+                    "name": "GD Elliott", 
+                    "fours": 8, 
+                    "six": 0, 
+                    "dismissal": "caught DW Steyn bowled LL Tsotsobe"
+                }, 
+                {
+                    "runs": 13, 
+                    "balls": 25, 
+                    "name": "BB McCullum", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught DW Steyn bowled R McLaren"
+                }, 
+                {
+                    "runs": 57, 
+                    "balls": 62, 
+                    "name": "C Munro", 
+                    "fours": 6, 
+                    "six": 1, 
+                    "dismissal": "caught Q de Kock bowled LL Tsotsobe"
+                }, 
+                {
+                    "runs": 53, 
+                    "balls": 52, 
+                    "name": "JEC Franklin", 
+                    "fours": 3, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 2, 
+                    "name": "NL McCullum", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Q de Kock bowled R McLaren"
+                }, 
+                {
+                    "runs": 13, 
+                    "balls": 8, 
+                    "name": "JDS Neesham", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled R McLaren"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 6, 
+                    "name": "KD Mills", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out F du Plessis "
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 2, 
+                    "name": "MJ McClenaghan", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 56, 
+                    "overs": 9.5, 
+                    "name": "DW Steyn", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 45, 
+                    "overs": 10.0, 
+                    "name": "LL Tsotsobe", 
+                    "maiden": 2, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 44, 
+                    "overs": 10.0, 
+                    "name": "RK Kleinveldt", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 43, 
+                    "overs": 8.0, 
+                    "name": "AM Phangiso", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 52, 
+                    "overs": 10.0, 
+                    "name": "R McLaren", 
+                    "maiden": 0, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 9, 
+                    "overs": 2.0, 
+                    "name": "F Behardien", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 15.3, 
+                    "score": 83, 
+                    "name": "Q de Kock", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 26.1, 
+                    "score": 122, 
+                    "name": "CA Ingram", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 33.2, 
+                    "score": 165, 
+                    "name": "F du Plessis", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 36.4, 
+                    "score": 174, 
+                    "name": "F Behardien", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 41.5, 
+                    "score": 205, 
+                    "name": "DA Miller", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 45.4, 
+                    "score": 229, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 46.5, 
+                    "score": 237, 
+                    "name": "RK Kleinveldt", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 48.3, 
+                    "score": 251, 
+                    "name": "AM Phangiso", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 49.5, 
+                    "score": 258, 
+                    "name": "DW Steyn", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 264, 
+                "bowlteam": "New Zealand", 
+                "batteam": "South Africa", 
+                "wickets": 9, 
+                "inning_no": 2, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 31, 
+                    "balls": 38, 
+                    "name": "Q de Kock", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 116, 
+                    "balls": 130, 
+                    "name": "GC Smith", 
+                    "fours": 14, 
+                    "six": 0, 
+                    "dismissal": "caught BJ Watling bowled KS Williamson"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 40, 
+                    "name": "CA Ingram", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Guptill bowled NL McCullum"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 23, 
+                    "name": "F du Plessis", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Guptill bowled KD Mills"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 9, 
+                    "name": "F Behardien", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled KS Williamson"
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 19, 
+                    "name": "DA Miller", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled KD Mills"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 24, 
+                    "name": "R McLaren", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 5, 
+                    "name": "RK Kleinveldt", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 6, 
+                    "name": "AM Phangiso", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 6, 
+                    "name": "DW Steyn", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught GD Elliott bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "LL Tsotsobe", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 40, 
+                    "overs": 10.0, 
+                    "name": "KD Mills", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 70, 
+                    "overs": 10.0, 
+                    "name": "MJ McClenaghan", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 3.0, 
+                    "name": "JDS Neesham", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 35, 
+                    "overs": 10.0, 
+                    "name": "NL McCullum", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 38, 
+                    "overs": 6.0, 
+                    "name": "JEC Franklin", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 14, 
+                    "overs": 3.0, 
+                    "name": "GD Elliott", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 40, 
+                    "overs": 8.0, 
+                    "name": "KS Williamson", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Potchefstroom", 
+        "venue": "Senwes Park", 
+        "teams": "South Africa vs New Zealand", 
+        "mtype": "ODI", 
+        "mom": "GC Smith", 
+        "date": "2013-01-25", 
+        "id": "567360"
+    }
+}

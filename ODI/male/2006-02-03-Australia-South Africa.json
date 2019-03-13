@@ -1,0 +1,377 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 10.0, 
+                    "score": 45, 
+                    "name": "AC Gilchrist", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 16.2, 
+                    "score": 71, 
+                    "name": "SM Katich", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 30.5, 
+                    "score": 145, 
+                    "name": "DR Martyn", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 35.5, 
+                    "score": 163, 
+                    "name": "RT Ponting", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 36.5, 
+                    "score": 167, 
+                    "name": "MJ Clarke", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 49.3, 
+                    "score": 276, 
+                    "name": "MEK Hussey", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 50.0, 
+                    "score": 281, 
+                    "name": "A Symonds", 
+                    "wkt_nbr": 7
+                }
+            ], 
+            "summary": {
+                "runs": 281, 
+                "bowlteam": "South Africa", 
+                "batteam": "Australia", 
+                "wickets": 7, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 33, 
+                    "balls": 43, 
+                    "name": "AC Gilchrist", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "bowled AJ Hall"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 43, 
+                    "name": "SM Katich", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught SM Pollock bowled JJ van der Wath"
+                }, 
+                {
+                    "runs": 53, 
+                    "balls": 63, 
+                    "name": "RT Ponting", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "caught JJ van der Wath bowled J Botha"
+                }, 
+                {
+                    "runs": 34, 
+                    "balls": 46, 
+                    "name": "DR Martyn", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught J Botha bowled GC Smith"
+                }, 
+                {
+                    "runs": 65, 
+                    "balls": 60, 
+                    "name": "A Symonds", 
+                    "fours": 5, 
+                    "six": 1, 
+                    "dismissal": "run out JJ van der Wath "
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 2, 
+                    "name": "MJ Clarke", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out AG Prince "
+                }, 
+                {
+                    "runs": 62, 
+                    "balls": 44, 
+                    "name": "MEK Hussey", 
+                    "fours": 9, 
+                    "six": 0, 
+                    "dismissal": "bowled JJ van der Wath"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "B Lee", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 20, 
+                    "overs": 10.0, 
+                    "name": "SM Pollock", 
+                    "maiden": 2, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 50, 
+                    "overs": 6.0, 
+                    "name": "CK Langeveldt", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 56, 
+                    "overs": 10.0, 
+                    "name": "AJ Hall", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 82, 
+                    "overs": 10.0, 
+                    "name": "JJ van der Wath", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 59, 
+                    "overs": 10.0, 
+                    "name": "GC Smith", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 4.0, 
+                    "name": "J Botha", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 0.2, 
+                    "score": 0, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 7.1, 
+                    "score": 13, 
+                    "name": "HH Dippenaar", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 13.5, 
+                    "score": 48, 
+                    "name": "JA Rudolph", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 19.2, 
+                    "score": 69, 
+                    "name": "HH Gibbs", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 31.0, 
+                    "score": 117, 
+                    "name": "AG Prince", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 38.1, 
+                    "score": 155, 
+                    "name": "JM Kemp", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 38.4, 
+                    "score": 156, 
+                    "name": "MV Boucher", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 39.0, 
+                    "score": 156, 
+                    "name": "J Botha", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 45.1, 
+                    "score": 183, 
+                    "name": "SM Pollock", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 201, 
+                "bowlteam": "Australia", 
+                "batteam": "South Africa", 
+                "wickets": 9, 
+                "inning_no": 2, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "GC Smith", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled B Lee"
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 23, 
+                    "name": "HH Dippenaar", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled SR Clark"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 39, 
+                    "name": "JA Rudolph", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out MEK Hussey "
+                }, 
+                {
+                    "runs": 33, 
+                    "balls": 40, 
+                    "name": "HH Gibbs", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "bowled JR Hopes"
+                }, 
+                {
+                    "runs": 46, 
+                    "balls": 61, 
+                    "name": "J Botha", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled B Lee"
+                }, 
+                {
+                    "runs": 24, 
+                    "balls": 39, 
+                    "name": "AG Prince", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "run out BR Dorey "
+                }, 
+                {
+                    "runs": 20, 
+                    "balls": 30, 
+                    "name": "JM Kemp", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught JR Hopes bowled B Lee"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "MV Boucher", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught RT Ponting bowled B Lee"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 17, 
+                    "name": "SM Pollock", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Martyn (sub) bowled A Symonds"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 35, 
+                    "name": "AJ Hall", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 14, 
+                    "name": "JJ van der Wath", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 30, 
+                    "overs": 10.0, 
+                    "name": "B Lee", 
+                    "maiden": 2, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 34, 
+                    "overs": 8.0, 
+                    "name": "SR Clark", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 48, 
+                    "overs": 10.0, 
+                    "name": "BR Dorey", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 6.0, 
+                    "name": "JR Hopes", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 32, 
+                    "overs": 7.0, 
+                    "name": "GB Hogg", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 41, 
+                    "overs": 9.0, 
+                    "name": "A Symonds", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Melbourne", 
+        "venue": "Docklands Stadium", 
+        "teams": "Australia vs South Africa", 
+        "mtype": "ODI", 
+        "mom": "MEK Hussey", 
+        "date": "2006-02-03", 
+        "id": "226377"
+    }
+}

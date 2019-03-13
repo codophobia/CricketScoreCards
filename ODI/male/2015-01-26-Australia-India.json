@@ -1,0 +1,106 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 6.1, 
+                    "score": 24, 
+                    "name": "S Dhawan", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 12.5, 
+                    "score": 62, 
+                    "name": "AT Rayudu", 
+                    "wkt_nbr": 2
+                }
+            ], 
+            "summary": {
+                "runs": 69, 
+                "bowlteam": "Australia", 
+                "batteam": "India", 
+                "wickets": 2, 
+                "inning_no": 1, 
+                "overs": 16
+            }, 
+            "batting": [
+                {
+                    "runs": 28, 
+                    "balls": 50, 
+                    "name": "AM Rahane", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 13, 
+                    "name": "S Dhawan", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AJ Finch bowled MA Starc"
+                }, 
+                {
+                    "runs": 23, 
+                    "balls": 24, 
+                    "name": "AT Rayudu", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "caught DA Warner bowled MR Marsh"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 9, 
+                    "name": "V Kohli", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 11, 
+                    "overs": 4.0, 
+                    "name": "MA Starc", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 5.0, 
+                    "name": "JR Hazlewood", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 3.0, 
+                    "name": "MR Marsh", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 10, 
+                    "overs": 3.0, 
+                    "name": "XJ Doherty", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 2, 
+                    "overs": 1.0, 
+                    "name": "JP Faulkner", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "mtype": "ODI", 
+        "date": "2015-01-26", 
+        "venue": "Sydney Cricket Ground", 
+        "id": "754757", 
+        "teams": "Australia vs India"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 0.2, 
+                    "score": 0, 
+                    "name": "L Vincent", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 1.5, 
+                    "score": 7, 
+                    "name": "JM How", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 2.5, 
+                    "score": 12, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 3
+                }
+            ], 
+            "summary": {
+                "runs": 30, 
+                "bowlteam": "Australia", 
+                "batteam": "New Zealand", 
+                "wickets": 3, 
+                "inning_no": 1, 
+                "overs": 6
+            }, 
+            "batting": [
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "L Vincent", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught RT Ponting bowled B Lee"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 6, 
+                    "name": "BB McCullum", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught GB Hogg bowled B Lee"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 8, 
+                    "name": "JM How", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught ML Hayden bowled NW Bracken"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 13, 
+                    "name": "SB Styris", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 8, 
+                    "name": "LRPL Taylor", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 12, 
+                    "overs": 3.0, 
+                    "name": "B Lee", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 3.0, 
+                    "name": "NW Bracken", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "mtype": "ODI", 
+        "date": "2007-12-16", 
+        "venue": "Sydney Cricket Ground", 
+        "id": "291346", 
+        "teams": "Australia vs New Zealand"
+    }
+}

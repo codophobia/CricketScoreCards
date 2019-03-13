@@ -1,0 +1,57 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 0.2, 
+                    "score": 2, 
+                    "name": "MJ Lumb", 
+                    "wkt_nbr": 1
+                }
+            ], 
+            "summary": {
+                "runs": 2, 
+                "bowlteam": "New Zealand", 
+                "batteam": "England", 
+                "wickets": 1, 
+                "inning_no": 1, 
+                "overs": 0.2
+            }, 
+            "batting": [
+                {
+                    "runs": 2, 
+                    "balls": 2, 
+                    "name": "MJ Lumb", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "AD Hales", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 2, 
+                    "overs": 0.2, 
+                    "name": "MJ McClenaghan", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "London", 
+        "venue": "Kennington Oval", 
+        "teams": "England vs New Zealand", 
+        "mtype": "T20", 
+        "date": "2013-06-27", 
+        "id": "566927"
+    }
+}

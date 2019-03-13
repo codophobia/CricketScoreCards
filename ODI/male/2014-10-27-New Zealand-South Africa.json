@@ -1,0 +1,128 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 6.0, 
+                    "score": 33, 
+                    "name": "HM Amla", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 7.5, 
+                    "score": 40, 
+                    "name": "RR Rossouw", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 16.5, 
+                    "score": 70, 
+                    "name": "DA Miller", 
+                    "wkt_nbr": 3
+                }
+            ], 
+            "summary": {
+                "runs": 157, 
+                "bowlteam": "New Zealand", 
+                "batteam": "South Africa", 
+                "wickets": 3, 
+                "inning_no": 1, 
+                "overs": 30.4
+            }, 
+            "batting": [
+                {
+                    "runs": 80, 
+                    "balls": 94, 
+                    "name": "Q de Kock", 
+                    "fours": 11, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 20, 
+                    "name": "HM Amla", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught NL McCullum bowled MJ Henry"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 6, 
+                    "name": "RR Rossouw", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled MJ Henry"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 29, 
+                    "name": "DA Miller", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "bowled JDS Neesham"
+                }, 
+                {
+                    "runs": 33, 
+                    "balls": 37, 
+                    "name": "AB de Villiers", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 29, 
+                    "overs": 7.4, 
+                    "name": "TG Southee", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 40, 
+                    "overs": 8.0, 
+                    "name": "MJ Henry", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 29, 
+                    "overs": 5.0, 
+                    "name": "MJ McClenaghan", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 27, 
+                    "overs": 6.0, 
+                    "name": "NL McCullum", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 19, 
+                    "overs": 2.0, 
+                    "name": "JDS Neesham", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 11, 
+                    "overs": 2.0, 
+                    "name": "CJ Anderson", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Hamilton", 
+        "venue": "Seddon Park", 
+        "teams": "New Zealand vs South Africa", 
+        "mtype": "ODI", 
+        "date": "2014-10-27", 
+        "id": "749775"
+    }
+}

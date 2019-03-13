@@ -1,0 +1,293 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 9.3, 
+                    "score": 126, 
+                    "name": "J Charles", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 15.3, 
+                    "score": 204, 
+                    "name": "AD Russell", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 15.5, 
+                    "score": 205, 
+                    "name": "E Lewis", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 19.0, 
+                    "score": 236, 
+                    "name": "CR Brathwaite", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 19.4, 
+                    "score": 244, 
+                    "name": "KA Pollard", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 19.5, 
+                    "score": 244, 
+                    "name": "LMP Simmons", 
+                    "wkt_nbr": 6
+                }
+            ], 
+            "summary": {
+                "runs": 245, 
+                "bowlteam": "India", 
+                "batteam": "West Indies", 
+                "wickets": 6, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 79, 
+                    "balls": 33, 
+                    "name": "J Charles", 
+                    "fours": 6, 
+                    "six": 7, 
+                    "dismissal": "bowled Mohammed Shami"
+                }, 
+                {
+                    "runs": 100, 
+                    "balls": 49, 
+                    "name": "E Lewis", 
+                    "fours": 5, 
+                    "six": 9, 
+                    "dismissal": "caught R Ashwin bowled RA Jadeja"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 12, 
+                    "name": "AD Russell", 
+                    "fours": 1, 
+                    "six": 2, 
+                    "dismissal": "lbw bowled RA Jadeja"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 15, 
+                    "name": "KA Pollard", 
+                    "fours": 0, 
+                    "six": 2, 
+                    "dismissal": "bowled JJ Bumrah"
+                }, 
+                {
+                    "runs": 14, 
+                    "balls": 10, 
+                    "name": "CR Brathwaite", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "run out JJ Bumrah "
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "DJ Bravo", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "LMP Simmons", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled JJ Bumrah"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "MN Samuels", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 48, 
+                    "overs": 4.0, 
+                    "name": "Mohammed Shami", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 43, 
+                    "overs": 4.0, 
+                    "name": "B Kumar", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 4.0, 
+                    "name": "JJ Bumrah", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 36, 
+                    "overs": 4.0, 
+                    "name": "R Ashwin", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 39, 
+                    "overs": 3.0, 
+                    "name": "RA Jadeja", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 32, 
+                    "overs": 1.0, 
+                    "name": "STR Binny", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 3.0, 
+                    "score": 31, 
+                    "name": "AM Rahane", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 4.4, 
+                    "score": 48, 
+                    "name": "V Kohli", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 11.5, 
+                    "score": 137, 
+                    "name": "RG Sharma", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 20.0, 
+                    "score": 244, 
+                    "name": "MS Dhoni", 
+                    "wkt_nbr": 4
+                }
+            ], 
+            "summary": {
+                "runs": 244, 
+                "bowlteam": "West Indies", 
+                "batteam": "India", 
+                "wickets": 4, 
+                "inning_no": 2, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 62, 
+                    "balls": 28, 
+                    "name": "RG Sharma", 
+                    "fours": 4, 
+                    "six": 4, 
+                    "dismissal": "caught J Charles bowled KA Pollard"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 7, 
+                    "name": "AM Rahane", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught DJ Bravo bowled AD Russell"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 9, 
+                    "name": "V Kohli", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught ADS Fletcher bowled DJ Bravo"
+                }, 
+                {
+                    "runs": 110, 
+                    "balls": 51, 
+                    "name": "KL Rahul", 
+                    "fours": 12, 
+                    "six": 5, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 43, 
+                    "balls": 25, 
+                    "name": "MS Dhoni", 
+                    "fours": 2, 
+                    "six": 2, 
+                    "dismissal": "caught MN Samuels bowled DJ Bravo"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 53, 
+                    "overs": 4.0, 
+                    "name": "AD Russell", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 2.0, 
+                    "name": "S Badree", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 37, 
+                    "overs": 4.0, 
+                    "name": "DJ Bravo", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 50, 
+                    "overs": 3.0, 
+                    "name": "SP Narine", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 4.0, 
+                    "name": "CR Brathwaite", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 30, 
+                    "overs": 3.0, 
+                    "name": "KA Pollard", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Lauderhill", 
+        "venue": "Central Broward Regional Park Stadium Turf Ground", 
+        "teams": "India vs West Indies", 
+        "mtype": "T20", 
+        "mom": "E Lewis", 
+        "date": "2016-08-27", 
+        "id": "1041615"
+    }
+}

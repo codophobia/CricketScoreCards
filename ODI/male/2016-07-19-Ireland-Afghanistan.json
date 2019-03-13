@@ -1,0 +1,363 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 4.5, 
+                    "score": 27, 
+                    "name": "WTS Porterfield", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 9.3, 
+                    "score": 44, 
+                    "name": "SP Terry", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 40.1, 
+                    "score": 178, 
+                    "name": "GC Wilson", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 41.5, 
+                    "score": 184, 
+                    "name": "KJ O'Brien", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 42.5, 
+                    "score": 192, 
+                    "name": "PR Stirling", 
+                    "wkt_nbr": 5
+                }
+            ], 
+            "summary": {
+                "runs": 265, 
+                "bowlteam": "Afghanistan", 
+                "batteam": "Ireland", 
+                "wickets": 5, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 8, 
+                    "balls": 20, 
+                    "name": "WTS Porterfield", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Rahmat Shah bowled Mirwais Ashraf"
+                }, 
+                {
+                    "runs": 160, 
+                    "balls": 148, 
+                    "name": "EC Joyce", 
+                    "fours": 19, 
+                    "six": 3, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 15, 
+                    "name": "SP Terry", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled Yamin Ahmadzai"
+                }, 
+                {
+                    "runs": 58, 
+                    "balls": 92, 
+                    "name": "GC Wilson", 
+                    "fours": 5, 
+                    "six": 1, 
+                    "dismissal": "caught Mohammad Nabi bowled Dawlat Zadran"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 6, 
+                    "name": "KJ O'Brien", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Najibullah Zadran bowled Mohammad Nabi"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 4, 
+                    "name": "PR Stirling", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled Dawlat Zadran"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 15, 
+                    "name": "SW Poynter", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 63, 
+                    "overs": 8.0, 
+                    "name": "Yamin Ahmadzai", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 49, 
+                    "overs": 10.0, 
+                    "name": "Dawlat Zadran", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 8.0, 
+                    "name": "Mirwais Ashraf", 
+                    "maiden": 2, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 38, 
+                    "overs": 9.0, 
+                    "name": "Mohammad Nabi", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 2.0, 
+                    "name": "Rahmat Shah", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 68, 
+                    "overs": 10.0, 
+                    "name": "Rashid Khan", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 11, 
+                    "overs": 3.0, 
+                    "name": "Gulbadin Naib", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 1.5, 
+                    "score": 10, 
+                    "name": "Mohammad Shahzad", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 4.1, 
+                    "score": 13, 
+                    "name": "Javed Ahmadi", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 9.2, 
+                    "score": 27, 
+                    "name": "Gulbadin Naib", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 20.1, 
+                    "score": 64, 
+                    "name": "Rahmat Shah", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 28.1, 
+                    "score": 99, 
+                    "name": "Asghar Stanikzai", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 32.3, 
+                    "score": 119, 
+                    "name": "Mohammad Nabi", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 46.0, 
+                    "score": 212, 
+                    "name": "Rashid Khan", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 46.1, 
+                    "score": 212, 
+                    "name": "Mirwais Ashraf", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 46.2, 
+                    "score": 212, 
+                    "name": "Najibullah Zadran", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 253, 
+                "bowlteam": "Ireland", 
+                "batteam": "Afghanistan", 
+                "wickets": 9, 
+                "inning_no": 2, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 7, 
+                    "balls": 6, 
+                    "name": "Mohammad Shahzad", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught PKD Chase bowled BJ McCarthy"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 10, 
+                    "name": "Javed Ahmadi", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught PR Stirling bowled TJ Murtagh"
+                }, 
+                {
+                    "runs": 30, 
+                    "balls": 56, 
+                    "name": "Rahmat Shah", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled KJ O'Brien"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 10, 
+                    "name": "Gulbadin Naib", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled PKD Chase"
+                }, 
+                {
+                    "runs": 32, 
+                    "balls": 64, 
+                    "name": "Asghar Stanikzai", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught GH Dockrell (sub) bowled BJ McCarthy"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 33, 
+                    "name": "Mohammad Nabi", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "bowled PKD Chase"
+                }, 
+                {
+                    "runs": 54, 
+                    "balls": 66, 
+                    "name": "Najibullah Zadran", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "caught GC Wilson bowled KJ O'Brien"
+                }, 
+                {
+                    "runs": 40, 
+                    "balls": 32, 
+                    "name": "Rashid Khan", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "caught KJ O'Brien bowled PR Stirling"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "Mirwais Ashraf", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught PKD Chase bowled KJ O'Brien"
+                }, 
+                {
+                    "runs": 31, 
+                    "balls": 15, 
+                    "name": "Dawlat Zadran", 
+                    "fours": 3, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 7, 
+                    "name": "Yamin Ahmadzai", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 34, 
+                    "overs": 7.0, 
+                    "name": "TJ Murtagh", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 6.0, 
+                    "name": "BJ McCarthy", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 39, 
+                    "overs": 10.0, 
+                    "name": "PKD Chase", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 57, 
+                    "overs": 10.0, 
+                    "name": "KJ O'Brien", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 10.0, 
+                    "name": "AR McBrine", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 7.0, 
+                    "name": "PR Stirling", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Belfast", 
+        "venue": "Civil Service Cricket Club, Stormont", 
+        "teams": "Ireland vs Afghanistan", 
+        "mtype": "ODI", 
+        "date": "2016-07-19", 
+        "id": "997967"
+    }
+}

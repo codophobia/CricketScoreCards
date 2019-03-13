@@ -1,0 +1,404 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 2.4, 
+                    "score": 5, 
+                    "name": "NJ Astle", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 4.2, 
+                    "score": 7, 
+                    "name": "HJH Marshall", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 13.1, 
+                    "score": 38, 
+                    "name": "SP Fleming", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 17.1, 
+                    "score": 53, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 26.4, 
+                    "score": 84, 
+                    "name": "PG Fulton", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 34.1, 
+                    "score": 126, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 36.5, 
+                    "score": 136, 
+                    "name": "DL Vettori", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 43.2, 
+                    "score": 193, 
+                    "name": "JEC Franklin", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 45.2, 
+                    "score": 205, 
+                    "name": "CD McMillan", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 47.4, 
+                    "score": 218, 
+                    "name": "MJ Mason", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 218, 
+                "bowlteam": "Australia", 
+                "batteam": "New Zealand", 
+                "wickets": 10, 
+                "inning_no": 1, 
+                "overs": 47.4
+            }, 
+            "batting": [
+                {
+                    "runs": 12, 
+                    "balls": 43, 
+                    "name": "SP Fleming", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught MEK Hussey bowled SR Clark"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 4, 
+                    "name": "NJ Astle", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled B Lee"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 3, 
+                    "name": "HJH Marshall", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AC Gilchrist bowled B Lee"
+                }, 
+                {
+                    "runs": 26, 
+                    "balls": 43, 
+                    "name": "LRPL Taylor", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught MEK Hussey bowled SR Clark"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 39, 
+                    "name": "PG Fulton", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught ML Hayden bowled SR Clark"
+                }, 
+                {
+                    "runs": 89, 
+                    "balls": 87, 
+                    "name": "CD McMillan", 
+                    "fours": 7, 
+                    "six": 3, 
+                    "dismissal": "caught and bowled bowled GD McGrath"
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 24, 
+                    "name": "BB McCullum", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "lbw bowled GD McGrath"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 10, 
+                    "name": "DL Vettori", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught RT Ponting bowled SR Clark"
+                }, 
+                {
+                    "runs": 18, 
+                    "balls": 18, 
+                    "name": "JEC Franklin", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught ML Hayden bowled GD McGrath"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 12, 
+                    "name": "MR Gillespie", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 7, 
+                    "name": "MJ Mason", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled NW Bracken"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 43, 
+                    "overs": 10.0, 
+                    "name": "B Lee", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 8.4, 
+                    "name": "NW Bracken", 
+                    "maiden": 2, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 24, 
+                    "overs": 10.0, 
+                    "name": "GD McGrath", 
+                    "maiden": 1, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 54, 
+                    "overs": 10.0, 
+                    "name": "SR Clark", 
+                    "maiden": 1, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 44, 
+                    "overs": 8.0, 
+                    "name": "A Symonds", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 6, 
+                    "overs": 1.0, 
+                    "name": "CL White", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 1.2, 
+                    "score": 6, 
+                    "name": "AC Gilchrist", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 2.4, 
+                    "score": 6, 
+                    "name": "ML Hayden", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 6.5, 
+                    "score": 17, 
+                    "name": "RT Ponting", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 19.4, 
+                    "score": 77, 
+                    "name": "A Symonds", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 37.1, 
+                    "score": 167, 
+                    "name": "MJ Clarke", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 40.3, 
+                    "score": 175, 
+                    "name": "CL White", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 44.3, 
+                    "score": 198, 
+                    "name": "B Lee", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 47.5, 
+                    "score": 217, 
+                    "name": "NW Bracken", 
+                    "wkt_nbr": 8
+                }
+            ], 
+            "summary": {
+                "runs": 224, 
+                "bowlteam": "New Zealand", 
+                "batteam": "Australia", 
+                "wickets": 8, 
+                "inning_no": 2, 
+                "overs": 48.4
+            }, 
+            "batting": [
+                {
+                    "runs": 3, 
+                    "balls": 3, 
+                    "name": "AC Gilchrist", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 10, 
+                    "name": "ML Hayden", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled MJ Mason"
+                }, 
+                {
+                    "runs": 75, 
+                    "balls": 111, 
+                    "name": "MJ Clarke", 
+                    "fours": 9, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled DL Vettori"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 15, 
+                    "name": "RT Ponting", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled MJ Mason"
+                }, 
+                {
+                    "runs": 38, 
+                    "balls": 40, 
+                    "name": "A Symonds", 
+                    "fours": 7, 
+                    "six": 0, 
+                    "dismissal": "bowled DL Vettori"
+                }, 
+                {
+                    "runs": 65, 
+                    "balls": 73, 
+                    "name": "MEK Hussey", 
+                    "fours": 6, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 15, 
+                    "name": "CL White", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught PG Fulton bowled MR Gillespie"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 12, 
+                    "name": "B Lee", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught HJH Marshall bowled MR Gillespie"
+                }, 
+                {
+                    "runs": 14, 
+                    "balls": 16, 
+                    "name": "NW Bracken", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled CD McMillan"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 3, 
+                    "name": "SR Clark", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 46, 
+                    "overs": 10.0, 
+                    "name": "MJ Mason", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 10.0, 
+                    "name": "JEC Franklin", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 34, 
+                    "overs": 10.0, 
+                    "name": "MR Gillespie", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 41, 
+                    "overs": 10.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 2.4, 
+                    "name": "NJ Astle", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 28, 
+                    "overs": 6.0, 
+                    "name": "CD McMillan", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "venue": "Sydney Cricket Ground", 
+        "teams": "Australia vs New Zealand", 
+        "mtype": "ODI", 
+        "mom": "MJ Clarke", 
+        "date": "2007-01-21", 
+        "id": "249229"
+    }
+}

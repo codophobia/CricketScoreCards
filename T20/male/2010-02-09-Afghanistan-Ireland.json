@@ -1,0 +1,404 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 1.3, 
+                    "score": 6, 
+                    "name": "Karim Sadiq", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 4.0, 
+                    "score": 14, 
+                    "name": "Shafiqullah", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 10.4, 
+                    "score": 61, 
+                    "name": "Mohammad Shahzad", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 13.1, 
+                    "score": 69, 
+                    "name": "Noor Ali Zadran", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 14.5, 
+                    "score": 93, 
+                    "name": "Nawroz Mangal", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 15.4, 
+                    "score": 97, 
+                    "name": "Samiullah Shenwari", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 18.5, 
+                    "score": 130, 
+                    "name": "Raees Ahmadzai", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 19.0, 
+                    "score": 131, 
+                    "name": "Mirwais Ashraf", 
+                    "wkt_nbr": 8
+                }
+            ], 
+            "summary": {
+                "runs": 139, 
+                "bowlteam": "Ireland", 
+                "batteam": "Afghanistan", 
+                "wickets": 8, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 42, 
+                    "balls": 45, 
+                    "name": "Noor Ali Zadran", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught PR Stirling bowled AC Botha"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 5, 
+                    "name": "Karim Sadiq", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled DT Johnston"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 6, 
+                    "name": "Shafiqullah", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JF Mooney bowled DT Johnston"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 17, 
+                    "name": "Mohammad Shahzad", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out JF Mooney "
+                }, 
+                {
+                    "runs": 13, 
+                    "balls": 11, 
+                    "name": "Nawroz Mangal", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "stumped NJ O'Brien bowled GH Dockrell"
+                }, 
+                {
+                    "runs": 43, 
+                    "balls": 25, 
+                    "name": "Mohammad Nabi", 
+                    "fours": 3, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 4, 
+                    "name": "Samiullah Shenwari", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out AR Cusack "
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 5, 
+                    "name": "Raees Ahmadzai", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "stumped NJ O'Brien bowled AC Botha"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "Mirwais Ashraf", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out KJ O'Brien "
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "Hamid Hassan", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 20, 
+                    "overs": 4.0, 
+                    "name": "PC Connell", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 4.0, 
+                    "name": "DT Johnston", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 2.0, 
+                    "name": "KJ O'Brien", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 4.0, 
+                    "name": "AC Botha", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 31, 
+                    "overs": 3.0, 
+                    "name": "GH Dockrell", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 23, 
+                    "overs": 3.0, 
+                    "name": "AR Cusack", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 3.0, 
+                    "score": 22, 
+                    "name": "NJ O'Brien", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 6.4, 
+                    "score": 52, 
+                    "name": "WTS Porterfield", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 7.0, 
+                    "score": 52, 
+                    "name": "AC Botha", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 9.0, 
+                    "score": 63, 
+                    "name": "KJ O'Brien", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 11.5, 
+                    "score": 78, 
+                    "name": "PR Stirling", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 13.3, 
+                    "score": 91, 
+                    "name": "AR Cusack", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 14.3, 
+                    "score": 98, 
+                    "name": "GC Wilson", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 18.5, 
+                    "score": 125, 
+                    "name": "DT Johnston", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 19.1, 
+                    "score": 126, 
+                    "name": "PC Connell", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 19.2, 
+                    "score": 126, 
+                    "name": "JF Mooney", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 126, 
+                "bowlteam": "Afghanistan", 
+                "batteam": "Ireland", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 19.2
+            }, 
+            "batting": [
+                {
+                    "runs": 35, 
+                    "balls": 23, 
+                    "name": "WTS Porterfield", 
+                    "fours": 3, 
+                    "six": 2, 
+                    "dismissal": "bowled Karim Sadiq"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 6, 
+                    "name": "NJ O'Brien", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Noor Ali Zadran bowled Shapoor Zadran"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 23, 
+                    "name": "PR Stirling", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught Nawroz Mangal bowled Hamid Hassan"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "AC Botha", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled Karim Sadiq"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 9, 
+                    "name": "KJ O'Brien", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Nawroz Mangal bowled Karim Sadiq"
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 13, 
+                    "name": "AR Cusack", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out Nawroz Mangal "
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 10, 
+                    "name": "GC Wilson", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Mohammad Shahzad bowled Mohammad Nabi"
+                }, 
+                {
+                    "runs": 18, 
+                    "balls": 17, 
+                    "name": "DT Johnston", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Samiullah Shenwari bowled Mohammad Nabi"
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 13, 
+                    "name": "JF Mooney", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled Hamid Hassan"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "PC Connell", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out Hamid Hassan "
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "GH Dockrell", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 31, 
+                    "overs": 3.0, 
+                    "name": "Shapoor Zadran", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 4.0, 
+                    "name": "Mirwais Ashraf", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 17, 
+                    "overs": 3.0, 
+                    "name": "Karim Sadiq", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 7, 
+                    "overs": 2.0, 
+                    "name": "Samiullah Shenwari", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 19, 
+                    "overs": 3.2, 
+                    "name": "Hamid Hassan", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 4.0, 
+                    "name": "Mohammad Nabi", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "venue": "Dubai International Cricket Stadium", 
+        "teams": "Afghanistan vs Ireland", 
+        "mtype": "T20", 
+        "mom": "Mohammad Nabi", 
+        "date": "2010-02-09", 
+        "id": "439495"
+    }
+}

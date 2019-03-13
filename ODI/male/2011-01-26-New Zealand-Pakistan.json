@@ -1,0 +1,63 @@
+{
+    "innings": [
+        {
+            "fow": [], 
+            "summary": {
+                "runs": 31, 
+                "bowlteam": "New Zealand", 
+                "batteam": "Pakistan", 
+                "wickets": 0, 
+                "inning_no": 1, 
+                "overs": 4.2
+            }, 
+            "batting": [
+                {
+                    "runs": 4, 
+                    "balls": 11, 
+                    "name": "Mohammad Hafeez", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 16, 
+                    "name": "Ahmed Shehzad", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 16, 
+                    "overs": 2.0, 
+                    "name": "JEC Franklin", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 10, 
+                    "overs": 2.0, 
+                    "name": "TG Southee", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 5, 
+                    "overs": 0.2, 
+                    "name": "JDP Oram", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "mtype": "ODI", 
+        "date": "2011-01-26", 
+        "venue": "Queenstown Events Centre", 
+        "id": "473924", 
+        "teams": "New Zealand vs Pakistan"
+    }
+}

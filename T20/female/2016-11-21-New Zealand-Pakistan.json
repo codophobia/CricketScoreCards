@@ -1,0 +1,425 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 0.1, 
+                    "score": 3, 
+                    "name": "SW Bates", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 1.2, 
+                    "score": 8, 
+                    "name": "RH Priest", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 4.4, 
+                    "score": 36, 
+                    "name": "AE Satterthwaite", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 4.5, 
+                    "score": 36, 
+                    "name": "SFM Devine", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 7.2, 
+                    "score": 45, 
+                    "name": "TMM Newton", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 11.1, 
+                    "score": 71, 
+                    "name": "KJ Martin", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 15.3, 
+                    "score": 90, 
+                    "name": "EC Perry", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 19.4, 
+                    "score": 117, 
+                    "name": "LMM Tahuhu", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 19.5, 
+                    "score": 117, 
+                    "name": "KT Perkins", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 118, 
+                "bowlteam": "Pakistan", 
+                "batteam": "New Zealand", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "SW Bates", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Ayesha Zafar bowled Iram Javed"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 2, 
+                    "name": "RH Priest", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled Asmavia Iqbal"
+                }, 
+                {
+                    "runs": 14, 
+                    "balls": 14, 
+                    "name": "SFM Devine", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled Sana Mir"
+                }, 
+                {
+                    "runs": 14, 
+                    "balls": 12, 
+                    "name": "AE Satterthwaite", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught Aliya Riaz bowled Sana Mir"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 21, 
+                    "name": "KJ Martin", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught Bismah Maroof bowled Sadia Yousuf"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 7, 
+                    "name": "TMM Newton", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out Bismah Maroof "
+                }, 
+                {
+                    "runs": 26, 
+                    "balls": 21, 
+                    "name": "EC Perry", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught Javeria Khan bowled Nida Dar"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 25, 
+                    "name": "KT Perkins", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Nain Abidi bowled Asmavia Iqbal"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 16, 
+                    "name": "LMM Tahuhu", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out Bismah Maroof "
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "AC Kerr", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "MJG Nielsen", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 19, 
+                    "overs": 2.0, 
+                    "name": "Iram Javed", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 30, 
+                    "overs": 4.0, 
+                    "name": "Asmavia Iqbal", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 4.0, 
+                    "name": "Sana Mir", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 13, 
+                    "overs": 4.0, 
+                    "name": "Sadia Yousuf", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 4.0, 
+                    "name": "Nida Dar", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 2.0, 
+                    "name": "Aliya Riaz", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 1.1, 
+                    "score": 2, 
+                    "name": "Javeria Khan", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 2.5, 
+                    "score": 16, 
+                    "name": "Bismah Maroof", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 3.2, 
+                    "score": 16, 
+                    "name": "Nain Abidi", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 5.2, 
+                    "score": 22, 
+                    "name": "Ayesha Zafar", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 9.0, 
+                    "score": 34, 
+                    "name": "Nida Dar", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 10.3, 
+                    "score": 51, 
+                    "name": "Iram Javed", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 11.4, 
+                    "score": 54, 
+                    "name": "Sidra Nawaz", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 13.2, 
+                    "score": 60, 
+                    "name": "Asmavia Iqbal", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 18.0, 
+                    "score": 90, 
+                    "name": "Sana Mir", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 20.0, 
+                    "score": 104, 
+                    "name": "Sadia Yousuf", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 104, 
+                "bowlteam": "New Zealand", 
+                "batteam": "Pakistan", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 14, 
+                    "balls": 16, 
+                    "name": "Ayesha Zafar", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught AE Satterthwaite bowled LMM Tahuhu"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 3, 
+                    "name": "Javeria Khan", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught EC Perry bowled LMM Tahuhu"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 4, 
+                    "name": "Bismah Maroof", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out LMM Tahuhu "
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "Nain Abidi", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled LMM Tahuhu"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 24, 
+                    "name": "Iram Javed", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught SW Bates bowled TMM Newton"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 12, 
+                    "name": "Nida Dar", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled TMM Newton"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 10, 
+                    "name": "Asmavia Iqbal", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled AC Kerr"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 5, 
+                    "name": "Sidra Nawaz", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AE Satterthwaite bowled AC Kerr"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 18, 
+                    "name": "Sana Mir", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled AC Kerr"
+                }, 
+                {
+                    "runs": 28, 
+                    "balls": 22, 
+                    "name": "Aliya Riaz", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 5, 
+                    "name": "Sadia Yousuf", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out AC Kerr "
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 7, 
+                    "overs": 2.0, 
+                    "name": "MJG Nielsen", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 17, 
+                    "overs": 4.0, 
+                    "name": "LMM Tahuhu", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 3.0, 
+                    "name": "AE Satterthwaite", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 3.0, 
+                    "name": "TMM Newton", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 9, 
+                    "overs": 1.0, 
+                    "name": "SFM Devine", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 4.0, 
+                    "name": "AC Kerr", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 14, 
+                    "overs": 3.0, 
+                    "name": "SW Bates", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Nelson", 
+        "venue": "Saxton Oval", 
+        "teams": "New Zealand vs Pakistan", 
+        "mtype": "T20", 
+        "date": "2016-11-21", 
+        "id": "1050615"
+    }
+}

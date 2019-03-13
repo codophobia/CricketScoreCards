@@ -1,0 +1,363 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 2.1, 
+                    "score": 15, 
+                    "name": "G Gambhir", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 4.1, 
+                    "score": 22, 
+                    "name": "V Sehwag", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 10.1, 
+                    "score": 68, 
+                    "name": "Yuvraj Singh", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 15.4, 
+                    "score": 114, 
+                    "name": "V Kohli", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 19.2, 
+                    "score": 148, 
+                    "name": "SK Raina", 
+                    "wkt_nbr": 5
+                }
+            ], 
+            "summary": {
+                "runs": 159, 
+                "bowlteam": "Afghanistan", 
+                "batteam": "India", 
+                "wickets": 5, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 10, 
+                    "balls": 8, 
+                    "name": "G Gambhir", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled Shapoor Zadran"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 10, 
+                    "name": "V Sehwag", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Mohammad Shahzad bowled Shapoor Zadran"
+                }, 
+                {
+                    "runs": 50, 
+                    "balls": 39, 
+                    "name": "V Kohli", 
+                    "fours": 4, 
+                    "six": 2, 
+                    "dismissal": "caught Mohammad Nabi bowled Dawlat Zadran"
+                }, 
+                {
+                    "runs": 18, 
+                    "balls": 20, 
+                    "name": "Yuvraj Singh", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "caught Shapoor Zadran bowled Karim Sadiq"
+                }, 
+                {
+                    "runs": 38, 
+                    "balls": 33, 
+                    "name": "SK Raina", 
+                    "fours": 6, 
+                    "six": 0, 
+                    "dismissal": "bowled Mohammad Nabi"
+                }, 
+                {
+                    "runs": 18, 
+                    "balls": 9, 
+                    "name": "MS Dhoni", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "RG Sharma", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 33, 
+                    "overs": 4.0, 
+                    "name": "Shapoor Zadran", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 4.0, 
+                    "name": "Dawlat Zadran", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 15, 
+                    "overs": 2.0, 
+                    "name": "Gulbodin Naib", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 4.0, 
+                    "name": "Karim Sadiq", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 35, 
+                    "overs": 4.0, 
+                    "name": "Mohammad Nabi", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 2.0, 
+                    "name": "Samiullah Shenwari", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 3.5, 
+                    "score": 26, 
+                    "name": "Mohammad Shahzad", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 7.1, 
+                    "score": 52, 
+                    "name": "Nawroz Mangal", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 11.2, 
+                    "score": 75, 
+                    "name": "Karim Sadiq", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 11.3, 
+                    "score": 75, 
+                    "name": "Asghar Stanikzai", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 12.1, 
+                    "score": 76, 
+                    "name": "Samiullah Shenwari", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 15.0, 
+                    "score": 100, 
+                    "name": "Shafiqullah", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 16.5, 
+                    "score": 119, 
+                    "name": "Mohammad Nabi", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 17.4, 
+                    "score": 125, 
+                    "name": "Najibullah Zadran", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 19.2, 
+                    "score": 136, 
+                    "name": "Gulbodin Naib", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 19.3, 
+                    "score": 136, 
+                    "name": "Dawlat Zadran", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 136, 
+                "bowlteam": "India", 
+                "batteam": "Afghanistan", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 19.3
+            }, 
+            "batting": [
+                {
+                    "runs": 18, 
+                    "balls": 16, 
+                    "name": "Mohammad Shahzad", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught Yuvraj Singh bowled L Balaji"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 18, 
+                    "name": "Nawroz Mangal", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "lbw bowled Yuvraj Singh"
+                }, 
+                {
+                    "runs": 26, 
+                    "balls": 26, 
+                    "name": "Karim Sadiq", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught G Gambhir bowled Yuvraj Singh"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 9, 
+                    "name": "Asghar Stanikzai", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MS Dhoni bowled Yuvraj Singh"
+                }, 
+                {
+                    "runs": 31, 
+                    "balls": 17, 
+                    "name": "Mohammad Nabi", 
+                    "fours": 2, 
+                    "six": 2, 
+                    "dismissal": "caught RG Sharma bowled R Ashwin"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 2, 
+                    "name": "Samiullah Shenwari", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled R Ashwin"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 9, 
+                    "name": "Shafiqullah", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "lbw bowled IK Pathan"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 14, 
+                    "name": "Gulbodin Naib", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught SK Raina bowled L Balaji"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 2, 
+                    "name": "Najibullah Zadran", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out MS Dhoni "
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 5, 
+                    "name": "Dawlat Zadran", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled L Balaji"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "Shapoor Zadran", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 32, 
+                    "overs": 3.0, 
+                    "name": "Z Khan", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 29, 
+                    "overs": 4.0, 
+                    "name": "IK Pathan", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 19, 
+                    "overs": 3.3, 
+                    "name": "L Balaji", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 10, 
+                    "overs": 1.0, 
+                    "name": "RG Sharma", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 24, 
+                    "overs": 4.0, 
+                    "name": "Yuvraj Singh", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 4.0, 
+                    "name": "R Ashwin", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Colombo", 
+        "venue": "R Premadasa Stadium", 
+        "teams": "Afghanistan vs India", 
+        "mtype": "T20", 
+        "mom": "V Kohli", 
+        "date": "2012-09-19", 
+        "id": "533274"
+    }
+}

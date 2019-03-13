@@ -1,0 +1,336 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 0.2, 
+                    "score": 3, 
+                    "name": "LA Marsh", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 1.1, 
+                    "score": 6, 
+                    "name": "CM Edwards", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 2.5, 
+                    "score": 12, 
+                    "name": "SJ Taylor", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 3.0, 
+                    "score": 12, 
+                    "name": "A Brindle", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 13.2, 
+                    "score": 58, 
+                    "name": "TT Beaumont", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 14.1, 
+                    "score": 64, 
+                    "name": "LS Greenway", 
+                    "wkt_nbr": 6
+                }
+            ], 
+            "summary": {
+                "runs": 108, 
+                "bowlteam": "New Zealand", 
+                "batteam": "England", 
+                "wickets": 6, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 4, 
+                    "balls": 5, 
+                    "name": "CM Edwards", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LMM Tahuhu bowled RH Candy"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "LA Marsh", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught SJ McGlashan bowled FL Mackay"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 8, 
+                    "name": "SJ Taylor", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out FL Mackay "
+                }, 
+                {
+                    "runs": 26, 
+                    "balls": 42, 
+                    "name": "LS Greenway", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out SJ McGlashan "
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 0, 
+                    "name": "A Brindle", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out SW Bates "
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 27, 
+                    "name": "TT Beaumont", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled LMM Tahuhu"
+                }, 
+                {
+                    "runs": 30, 
+                    "balls": 26, 
+                    "name": "JL Gunn", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 14, 
+                    "name": "SE Rowe", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 30, 
+                    "overs": 4.0, 
+                    "name": "FL Mackay", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 14, 
+                    "overs": 4.0, 
+                    "name": "RH Candy", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 4.0, 
+                    "name": "KE Broadmore", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 15, 
+                    "overs": 3.0, 
+                    "name": "LMM Tahuhu", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 4.0, 
+                    "name": "LR Doolan", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 9, 
+                    "overs": 1.0, 
+                    "name": "AE Satterthwaite", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 5.5, 
+                    "score": 31, 
+                    "name": "FL Mackay", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 11.3, 
+                    "score": 60, 
+                    "name": "SW Bates", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 13.0, 
+                    "score": 65, 
+                    "name": "SJ McGlashan", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 16.2, 
+                    "score": 80, 
+                    "name": "KT Perkins", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 17.3, 
+                    "score": 86, 
+                    "name": "AE Satterthwaite", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 18.3, 
+                    "score": 89, 
+                    "name": "KJ Martin", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 18.4, 
+                    "score": 89, 
+                    "name": "RH Candy", 
+                    "wkt_nbr": 7
+                }
+            ], 
+            "summary": {
+                "runs": 90, 
+                "bowlteam": "England", 
+                "batteam": "New Zealand", 
+                "wickets": 7, 
+                "inning_no": 2, 
+                "overs": 18.5
+            }, 
+            "batting": [
+                {
+                    "runs": 19, 
+                    "balls": 18, 
+                    "name": "FL Mackay", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "bowled A Shrubsole"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 29, 
+                    "name": "SW Bates", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "caught SJ Taylor bowled A Brindle"
+                }, 
+                {
+                    "runs": 20, 
+                    "balls": 28, 
+                    "name": "SJ McGlashan", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught SJ Taylor bowled DN Wyatt"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 20, 
+                    "name": "AE Satterthwaite", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled DN Wyatt"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 7, 
+                    "name": "KT Perkins", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out A Shrubsole "
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 4, 
+                    "name": "EC Perry", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 5, 
+                    "name": "KJ Martin", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "stumped SJ Taylor bowled D Hazell"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "RH Candy", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled D Hazell"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "KE Broadmore", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 25, 
+                    "overs": 4.0, 
+                    "name": "DN Wyatt", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 4.0, 
+                    "name": "A Shrubsole", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 11, 
+                    "overs": 3.0, 
+                    "name": "A Brindle", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 4.0, 
+                    "name": "LA Marsh", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 3.5, 
+                    "name": "D Hazell", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Auckland", 
+        "venue": "Eden Park", 
+        "teams": "New Zealand vs England", 
+        "mtype": "T20", 
+        "mom": "JL Gunn", 
+        "date": "2012-02-22", 
+        "id": "527690"
+    }
+}

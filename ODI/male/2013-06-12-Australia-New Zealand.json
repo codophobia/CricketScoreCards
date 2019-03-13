@@ -1,0 +1,293 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 1.3, 
+                    "score": 5, 
+                    "name": "SR Watson", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 3.1, 
+                    "score": 10, 
+                    "name": "PJ Hughes", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 19.0, 
+                    "score": 74, 
+                    "name": "MS Wade", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 35.0, 
+                    "score": 151, 
+                    "name": "GJ Bailey", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 42.0, 
+                    "score": 193, 
+                    "name": "MR Marsh", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 43.1, 
+                    "score": 196, 
+                    "name": "AC Voges", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 46.3, 
+                    "score": 210, 
+                    "name": "JP Faulkner", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 47.4, 
+                    "score": 219, 
+                    "name": "MG Johnson", 
+                    "wkt_nbr": 8
+                }
+            ], 
+            "summary": {
+                "runs": 243, 
+                "bowlteam": "New Zealand", 
+                "batteam": "Australia", 
+                "wickets": 8, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 5, 
+                    "balls": 7, 
+                    "name": "SR Watson", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught L Ronchi bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 29, 
+                    "balls": 57, 
+                    "name": "MS Wade", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled NL McCullum"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 4, 
+                    "name": "PJ Hughes", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out MJ Guptill "
+                }, 
+                {
+                    "runs": 55, 
+                    "balls": 91, 
+                    "name": "GJ Bailey", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "bowled NL McCullum"
+                }, 
+                {
+                    "runs": 71, 
+                    "balls": 76, 
+                    "name": "AC Voges", 
+                    "fours": 7, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 24, 
+                    "name": "MR Marsh", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught L Ronchi bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 29, 
+                    "balls": 22, 
+                    "name": "GJ Maxwell", 
+                    "fours": 1, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 12, 
+                    "name": "JP Faulkner", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MJ McClenaghan bowled KS Williamson"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 6, 
+                    "name": "MG Johnson", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 4, 
+                    "name": "CJ McKay", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 19, 
+                    "overs": 6.0, 
+                    "name": "KD Mills", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 65, 
+                    "overs": 10.0, 
+                    "name": "MJ McClenaghan", 
+                    "maiden": 0, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 23, 
+                    "overs": 10.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 26, 
+                    "overs": 4.0, 
+                    "name": "TG Southee", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 46, 
+                    "overs": 10.0, 
+                    "name": "NL McCullum", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 56, 
+                    "overs": 10.0, 
+                    "name": "KS Williamson", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 4.0, 
+                    "score": 18, 
+                    "name": "MJ Guptill", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 7.1, 
+                    "score": 26, 
+                    "name": "L Ronchi", 
+                    "wkt_nbr": 2
+                }
+            ], 
+            "summary": {
+                "runs": 51, 
+                "bowlteam": "Australia", 
+                "batteam": "New Zealand", 
+                "wickets": 2, 
+                "inning_no": 2, 
+                "overs": 15
+            }, 
+            "batting": [
+                {
+                    "runs": 14, 
+                    "balls": 17, 
+                    "name": "L Ronchi", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught SR Watson bowled CJ McKay"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 13, 
+                    "name": "MJ Guptill", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught GJ Maxwell bowled CJ McKay"
+                }, 
+                {
+                    "runs": 18, 
+                    "balls": 37, 
+                    "name": "KS Williamson", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 23, 
+                    "name": "LRPL Taylor", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 18, 
+                    "overs": 4.0, 
+                    "name": "MG Johnson", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 10, 
+                    "overs": 4.0, 
+                    "name": "CJ McKay", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 11, 
+                    "overs": 3.0, 
+                    "name": "SR Watson", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 7, 
+                    "overs": 3.0, 
+                    "name": "JP Faulkner", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 4, 
+                    "overs": 1.0, 
+                    "name": "XJ Doherty", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Birmingham", 
+        "venue": "Edgbaston", 
+        "teams": "Australia vs New Zealand", 
+        "mtype": "ODI", 
+        "date": "2013-06-12", 
+        "id": "578620"
+    }
+}

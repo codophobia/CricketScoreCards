@@ -1,0 +1,384 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 1.1, 
+                    "score": 13, 
+                    "name": "LE Bosman", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 4.2, 
+                    "score": 45, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 10.3, 
+                    "score": 77, 
+                    "name": "AB de Villiers", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 12.1, 
+                    "score": 84, 
+                    "name": "JH Kallis", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 14.1, 
+                    "score": 90, 
+                    "name": "MV Boucher", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 18.2, 
+                    "score": 133, 
+                    "name": "JP Duminy", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 19.4, 
+                    "score": 137, 
+                    "name": "JA Morkel", 
+                    "wkt_nbr": 7
+                }
+            ], 
+            "summary": {
+                "runs": 139, 
+                "bowlteam": "Afghanistan", 
+                "batteam": "South Africa", 
+                "wickets": 7, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 27, 
+                    "balls": 14, 
+                    "name": "GC Smith", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "caught Nawroz Mangal bowled Mohammad Nabi"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "LE Bosman", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out Shapoor Zadran "
+                }, 
+                {
+                    "runs": 34, 
+                    "balls": 33, 
+                    "name": "JH Kallis", 
+                    "fours": 0, 
+                    "six": 2, 
+                    "dismissal": "caught Mohammad Shahzad bowled Hamid Hassan"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 21, 
+                    "name": "AB de Villiers", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "stumped Mohammad Shahzad bowled Nawroz Mangal"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 21, 
+                    "name": "JP Duminy", 
+                    "fours": 0, 
+                    "six": 2, 
+                    "dismissal": "caught Nawroz Mangal bowled Hamid Hassan"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 6, 
+                    "name": "MV Boucher", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled Hamid Hassan"
+                }, 
+                {
+                    "runs": 23, 
+                    "balls": 17, 
+                    "name": "JA Morkel", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "caught Nawroz Mangal bowled Shapoor Zadran"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 6, 
+                    "name": "RE van der Merwe", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "DW Steyn", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 29, 
+                    "overs": 3.0, 
+                    "name": "Shapoor Zadran", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 2.0, 
+                    "name": "Mirwais Ashraf", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 4.0, 
+                    "name": "Mohammad Nabi", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 14, 
+                    "overs": 4.0, 
+                    "name": "Samiullah Shenwari", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 3.0, 
+                    "name": "Nawroz Mangal", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 4.0, 
+                    "name": "Hamid Hassan", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 0.3, 
+                    "score": 1, 
+                    "name": "Noor Ali Zadran", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 2.3, 
+                    "score": 5, 
+                    "name": "Mohammad Shahzad", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 3.1, 
+                    "score": 7, 
+                    "name": "Nawroz Mangal", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 3.4, 
+                    "score": 8, 
+                    "name": "Karim Sadiq", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 4.0, 
+                    "score": 12, 
+                    "name": "Raees Ahmadzai", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 5.1, 
+                    "score": 14, 
+                    "name": "Mohammad Nabi", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 6.5, 
+                    "score": 25, 
+                    "name": "Asghar Stanikzai", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 7.5, 
+                    "score": 32, 
+                    "name": "Samiullah Shenwari", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 13.1, 
+                    "score": 65, 
+                    "name": "Mirwais Ashraf", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 16.0, 
+                    "score": 80, 
+                    "name": "Hamid Hassan", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 80, 
+                "bowlteam": "South Africa", 
+                "batteam": "Afghanistan", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 16
+            }, 
+            "batting": [
+                {
+                    "runs": 0, 
+                    "balls": 3, 
+                    "name": "Noor Ali Zadran", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled DW Steyn"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 8, 
+                    "name": "Karim Sadiq", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AB de Villiers bowled M Morkel"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 6, 
+                    "name": "Mohammad Shahzad", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled DW Steyn"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 4, 
+                    "name": "Nawroz Mangal", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JH Kallis bowled M Morkel"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 6, 
+                    "name": "Asghar Stanikzai", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught DW Steyn bowled CK Langeveldt"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 2, 
+                    "name": "Raees Ahmadzai", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled M Morkel"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 5, 
+                    "name": "Mohammad Nabi", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JP Duminy bowled M Morkel"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 12, 
+                    "name": "Samiullah Shenwari", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "run out AB de Villiers "
+                }, 
+                {
+                    "runs": 23, 
+                    "balls": 25, 
+                    "name": "Mirwais Ashraf", 
+                    "fours": 1, 
+                    "six": 2, 
+                    "dismissal": "bowled CK Langeveldt"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 21, 
+                    "name": "Hamid Hassan", 
+                    "fours": 1, 
+                    "six": 2, 
+                    "dismissal": "caught JH Kallis bowled CK Langeveldt"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 6, 
+                    "name": "Shapoor Zadran", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 6, 
+                    "overs": 3.0, 
+                    "name": "DW Steyn", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 4.0, 
+                    "name": "CK Langeveldt", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 3.0, 
+                    "name": "M Morkel", 
+                    "maiden": 0, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 4.0, 
+                    "name": "RE van der Merwe", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 2.0, 
+                    "name": "JA Morkel", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Barbados", 
+        "venue": "Kensington Oval, Bridgetown", 
+        "teams": "Afghanistan vs South Africa", 
+        "mtype": "T20", 
+        "mom": "M Morkel", 
+        "date": "2010-05-05", 
+        "id": "412687"
+    }
+}

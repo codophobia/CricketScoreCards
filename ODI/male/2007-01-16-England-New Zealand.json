@@ -1,0 +1,384 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 5.3, 
+                    "score": 26, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 14.0, 
+                    "score": 61, 
+                    "name": "SP Fleming", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 15.4, 
+                    "score": 67, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 23.4, 
+                    "score": 97, 
+                    "name": "NJ Astle", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 32.1, 
+                    "score": 127, 
+                    "name": "PG Fulton", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 36.4, 
+                    "score": 144, 
+                    "name": "DL Vettori", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 37.2, 
+                    "score": 146, 
+                    "name": "CD McMillan", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 46.4, 
+                    "score": 185, 
+                    "name": "JEC Franklin", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 50.0, 
+                    "score": 205, 
+                    "name": "MR Gillespie", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 205, 
+                "bowlteam": "England", 
+                "batteam": "New Zealand", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 16, 
+                    "balls": 15, 
+                    "name": "BB McCullum", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "caught MP Vaughan bowled JM Anderson"
+                }, 
+                {
+                    "runs": 45, 
+                    "balls": 63, 
+                    "name": "NJ Astle", 
+                    "fours": 6, 
+                    "six": 1, 
+                    "dismissal": "bowled PD Collingwood"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 29, 
+                    "name": "SP Fleming", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled JM Anderson"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 7, 
+                    "name": "LRPL Taylor", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MP Vaughan bowled JM Anderson"
+                }, 
+                {
+                    "runs": 27, 
+                    "balls": 52, 
+                    "name": "PG Fulton", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught MP Vaughan bowled A Flintoff"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 40, 
+                    "name": "CD McMillan", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled PD Collingwood"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 17, 
+                    "name": "DL Vettori", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled MS Panesar"
+                }, 
+                {
+                    "runs": 20, 
+                    "balls": 30, 
+                    "name": "JEC Franklin", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught PD Collingwood bowled A Flintoff"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 37, 
+                    "name": "SE Bond", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 10, 
+                    "name": "MR Gillespie", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled JM Anderson"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 51, 
+                    "overs": 9.0, 
+                    "name": "J Lewis", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 42, 
+                    "overs": 10.0, 
+                    "name": "JM Anderson", 
+                    "maiden": 0, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 37, 
+                    "overs": 10.0, 
+                    "name": "A Flintoff", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 36, 
+                    "overs": 10.0, 
+                    "name": "MS Panesar", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 10.0, 
+                    "name": "PD Collingwood", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 5, 
+                    "overs": 1.0, 
+                    "name": "JWM Dalrymple", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 11.5, 
+                    "score": 39, 
+                    "name": "MP Vaughan", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 17.3, 
+                    "score": 62, 
+                    "name": "AJ Strauss", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 23.5, 
+                    "score": 79, 
+                    "name": "EC Joyce", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 30.2, 
+                    "score": 98, 
+                    "name": "PD Collingwood", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 36.5, 
+                    "score": 138, 
+                    "name": "IR Bell", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 47.1, 
+                    "score": 198, 
+                    "name": "PA Nixon", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 48.2, 
+                    "score": 201, 
+                    "name": "JWM Dalrymple", 
+                    "wkt_nbr": 7
+                }
+            ], 
+            "summary": {
+                "runs": 206, 
+                "bowlteam": "New Zealand", 
+                "batteam": "England", 
+                "wickets": 7, 
+                "inning_no": 2, 
+                "overs": 49.5
+            }, 
+            "batting": [
+                {
+                    "runs": 28, 
+                    "balls": 58, 
+                    "name": "AJ Strauss", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 29, 
+                    "name": "MP Vaughan", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 45, 
+                    "balls": 72, 
+                    "name": "IR Bell", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled JS Patel"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 19, 
+                    "name": "EC Joyce", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out JS Patel "
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 21, 
+                    "name": "PD Collingwood", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled JS Patel"
+                }, 
+                {
+                    "runs": 72, 
+                    "balls": 75, 
+                    "name": "A Flintoff", 
+                    "fours": 7, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 22, 
+                    "name": "PA Nixon", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out DL Vettori "
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 5, 
+                    "name": "JWM Dalrymple", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JS Patel bowled MR Gillespie"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 6, 
+                    "name": "J Lewis", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 34, 
+                    "overs": 9.0, 
+                    "name": "JEC Franklin", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 29, 
+                    "overs": 8.0, 
+                    "name": "SE Bond", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 40, 
+                    "overs": 6.0, 
+                    "name": "MR Gillespie", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 4, 
+                    "overs": 2.0, 
+                    "name": "NJ Astle", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 34, 
+                    "overs": 10.0, 
+                    "name": "JS Patel", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 42, 
+                    "overs": 10.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 4.5, 
+                    "name": "CD McMillan", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Hobart", 
+        "venue": "Bellerive Oval", 
+        "teams": "England vs New Zealand", 
+        "mtype": "ODI", 
+        "mom": "A Flintoff", 
+        "date": "2007-01-16", 
+        "id": "249236"
+    }
+}

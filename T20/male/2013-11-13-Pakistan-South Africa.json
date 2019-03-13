@@ -1,0 +1,285 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 0.5, 
+                    "score": 0, 
+                    "name": "Ahmed Shehzad", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 1.4, 
+                    "score": 4, 
+                    "name": "Sohaib Maqsood", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 2.0, 
+                    "score": 4, 
+                    "name": "Mohammad Hafeez", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 6.4, 
+                    "score": 21, 
+                    "name": "Shahid Afridi", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 9.5, 
+                    "score": 41, 
+                    "name": "Shoaib Malik", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 14.5, 
+                    "score": 70, 
+                    "name": "Abdul Razzaq", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 15.3, 
+                    "score": 72, 
+                    "name": "Sohail Tanvir", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 19.5, 
+                    "score": 98, 
+                    "name": "Umar Akmal", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 20.0, 
+                    "score": 98, 
+                    "name": "Saeed Ajmal", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 98, 
+                "bowlteam": "South Africa", 
+                "batteam": "Pakistan", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 0, 
+                    "balls": 5, 
+                    "name": "Ahmed Shehzad", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught HM Amla bowled LL Tsotsobe"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 4, 
+                    "name": "Sohaib Maqsood", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Q de Kock bowled DW Steyn"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 13, 
+                    "name": "Shahid Afridi", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught R McLaren bowled LL Tsotsobe"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "Mohammad Hafeez", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Q de Kock bowled DW Steyn"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 23, 
+                    "name": "Shoaib Malik", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "stumped Q de Kock bowled Imran Tahir"
+                }, 
+                {
+                    "runs": 49, 
+                    "balls": 41, 
+                    "name": "Umar Akmal", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "run out Q de Kock "
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 16, 
+                    "name": "Abdul Razzaq", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught DA Miller bowled R McLaren"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 3, 
+                    "name": "Sohail Tanvir", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "stumped Q de Kock bowled Imran Tahir"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 12, 
+                    "name": "Abdur Rehman", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "Saeed Ajmal", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled DW Steyn"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 9, 
+                    "overs": 4.0, 
+                    "name": "LL Tsotsobe", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 15, 
+                    "overs": 4.0, 
+                    "name": "DW Steyn", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 29, 
+                    "overs": 4.0, 
+                    "name": "R McLaren", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 27, 
+                    "overs": 4.0, 
+                    "name": "WD Parnell", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 17, 
+                    "overs": 4.0, 
+                    "name": "Imran Tahir", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 2.2, 
+                    "score": 16, 
+                    "name": "HM Amla", 
+                    "wkt_nbr": 1
+                }
+            ], 
+            "summary": {
+                "runs": 99, 
+                "bowlteam": "Pakistan", 
+                "batteam": "South Africa", 
+                "wickets": 1, 
+                "inning_no": 2, 
+                "overs": 14.3
+            }, 
+            "batting": [
+                {
+                    "runs": 13, 
+                    "balls": 9, 
+                    "name": "HM Amla", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled Sohail Tanvir"
+                }, 
+                {
+                    "runs": 48, 
+                    "balls": 38, 
+                    "name": "Q de Kock", 
+                    "fours": 3, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 37, 
+                    "balls": 40, 
+                    "name": "F du Plessis", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 24, 
+                    "overs": 3.0, 
+                    "name": "Mohammad Hafeez", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 7, 
+                    "overs": 2.0, 
+                    "name": "Mohammad Irfan", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 2.0, 
+                    "name": "Sohail Tanvir", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 4.0, 
+                    "name": "Saeed Ajmal", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 2.3, 
+                    "name": "Shahid Afridi", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 1.0, 
+                    "name": "Abdur Rehman", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "venue": "Dubai International Cricket Stadium", 
+        "teams": "Pakistan vs South Africa", 
+        "mtype": "T20", 
+        "mom": "DW Steyn", 
+        "date": "2013-11-13", 
+        "id": "649101"
+    }
+}

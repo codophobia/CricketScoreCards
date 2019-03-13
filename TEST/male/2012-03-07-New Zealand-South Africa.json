@@ -1,0 +1,664 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 9.2, 
+                    "score": 34, 
+                    "name": "AN Petersen", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 26.5, 
+                    "score": 86, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 28.1, 
+                    "score": 90, 
+                    "name": "JH Kallis", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 28.2, 
+                    "score": 90, 
+                    "name": "AB de Villiers", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 41.4, 
+                    "score": 156, 
+                    "name": "HM Amla", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 43.1, 
+                    "score": 161, 
+                    "name": "MV Boucher", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 48.2, 
+                    "score": 179, 
+                    "name": "DW Steyn", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 64.0, 
+                    "score": 214, 
+                    "name": "VD Philander", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 65.0, 
+                    "score": 222, 
+                    "name": "JA Rudolph", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 68.2, 
+                    "score": 238, 
+                    "name": "Imran Tahir", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 238, 
+                "bowlteam": "New Zealand", 
+                "batteam": "South Africa", 
+                "wickets": 10, 
+                "inning_no": 1, 
+                "overs": 68.2
+            }, 
+            "batting": [
+                {
+                    "runs": 53, 
+                    "balls": 74, 
+                    "name": "GC Smith", 
+                    "fours": 6, 
+                    "six": 0, 
+                    "dismissal": "caught RJ Nicol bowled CS Martin"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 29, 
+                    "name": "AN Petersen", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled TA Boult"
+                }, 
+                {
+                    "runs": 62, 
+                    "balls": 102, 
+                    "name": "HM Amla", 
+                    "fours": 8, 
+                    "six": 1, 
+                    "dismissal": "caught LRPL Taylor bowled DL Vettori"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "JH Kallis", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled CS Martin"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "AB de Villiers", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled CS Martin"
+                }, 
+                {
+                    "runs": 52, 
+                    "balls": 99, 
+                    "name": "JA Rudolph", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught TA Boult bowled DAJ Bracewell"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 2, 
+                    "name": "MV Boucher", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out DAJ Bracewell "
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 20, 
+                    "name": "DW Steyn", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled DAJ Bracewell"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 58, 
+                    "name": "VD Philander", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught KS Williamson bowled CS Martin"
+                }, 
+                {
+                    "runs": 13, 
+                    "balls": 14, 
+                    "name": "M Morkel", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 10, 
+                    "name": "Imran Tahir", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out DAJ Bracewell "
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 56, 
+                    "overs": 18.0, 
+                    "name": "CS Martin", 
+                    "maiden": 2, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 40, 
+                    "overs": 10.0, 
+                    "name": "TG Southee", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 58, 
+                    "overs": 8.0, 
+                    "name": "TA Boult", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 52, 
+                    "overs": 16.2, 
+                    "name": "DAJ Bracewell", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 31, 
+                    "overs": 15.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 4, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 0, 
+                    "overs": 1.0, 
+                    "name": "RJ Nicol", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 3.2, 
+                    "score": 7, 
+                    "name": "RJ Nicol", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 16.5, 
+                    "score": 41, 
+                    "name": "MJ Guptill", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 38.1, 
+                    "score": 106, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 41.4, 
+                    "score": 116, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 50.0, 
+                    "score": 135, 
+                    "name": "KS Williamson", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 67.3, 
+                    "score": 188, 
+                    "name": "DL Vettori", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 81.2, 
+                    "score": 229, 
+                    "name": "CFK van Wyk", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 81.4, 
+                    "score": 229, 
+                    "name": "TG Southee", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 85.0, 
+                    "score": 239, 
+                    "name": "DAJ Bracewell", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 88.2, 
+                    "score": 273, 
+                    "name": "CS Martin", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 273, 
+                "bowlteam": "South Africa", 
+                "batteam": "New Zealand", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 88.2
+            }, 
+            "batting": [
+                {
+                    "runs": 6, 
+                    "balls": 12, 
+                    "name": "RJ Nicol", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught GC Smith bowled VD Philander"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 43, 
+                    "name": "MJ Guptill", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled M Morkel"
+                }, 
+                {
+                    "runs": 48, 
+                    "balls": 102, 
+                    "name": "BB McCullum", 
+                    "fours": 6, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled Imran Tahir"
+                }, 
+                {
+                    "runs": 44, 
+                    "balls": 77, 
+                    "name": "LRPL Taylor", 
+                    "fours": 7, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled M Morkel"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 45, 
+                    "name": "KS Williamson", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled VD Philander"
+                }, 
+                {
+                    "runs": 46, 
+                    "balls": 78, 
+                    "name": "DL Vettori", 
+                    "fours": 8, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled JH Kallis"
+                }, 
+                {
+                    "runs": 36, 
+                    "balls": 92, 
+                    "name": "CFK van Wyk", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught GC Smith bowled VD Philander"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 46, 
+                    "name": "DAJ Bracewell", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "bowled DW Steyn"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "TG Southee", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught GC Smith bowled VD Philander"
+                }, 
+                {
+                    "runs": 33, 
+                    "balls": 28, 
+                    "name": "TA Boult", 
+                    "fours": 1, 
+                    "six": 3, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 5, 
+                    "name": "CS Martin", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught HM Amla bowled DW Steyn"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 79, 
+                    "overs": 20.2, 
+                    "name": "DW Steyn", 
+                    "maiden": 4, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 72, 
+                    "overs": 18.0, 
+                    "name": "VD Philander", 
+                    "maiden": 1, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 52, 
+                    "overs": 18.0, 
+                    "name": "M Morkel", 
+                    "maiden": 5, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 55, 
+                    "overs": 24.0, 
+                    "name": "Imran Tahir", 
+                    "maiden": 6, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 8.0, 
+                    "name": "JH Kallis", 
+                    "maiden": 2, 
+                    "wickets": 1
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 11.2, 
+                    "score": 45, 
+                    "name": "AN Petersen", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 12.0, 
+                    "score": 47, 
+                    "name": "HM Amla", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 81.1, 
+                    "score": 247, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 97.3, 
+                    "score": 283, 
+                    "name": "JH Kallis", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 117.2, 
+                    "score": 353, 
+                    "name": "AB de Villiers", 
+                    "wkt_nbr": 5
+                }
+            ], 
+            "summary": {
+                "runs": 435, 
+                "bowlteam": "New Zealand", 
+                "batteam": "South Africa", 
+                "wickets": 5, 
+                "inning_no": 3, 
+                "overs": 140
+            }, 
+            "batting": [
+                {
+                    "runs": 25, 
+                    "balls": 35, 
+                    "name": "AN Petersen", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "caught TG Southee bowled DAJ Bracewell"
+                }, 
+                {
+                    "runs": 115, 
+                    "balls": 234, 
+                    "name": "GC Smith", 
+                    "fours": 13, 
+                    "six": 0, 
+                    "dismissal": "bowled DAJ Bracewell"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 4, 
+                    "name": "HM Amla", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Guptill bowled DAJ Bracewell"
+                }, 
+                {
+                    "runs": 113, 
+                    "balls": 263, 
+                    "name": "JH Kallis", 
+                    "fours": 16, 
+                    "six": 0, 
+                    "dismissal": "caught RJ Nicol bowled TA Boult"
+                }, 
+                {
+                    "runs": 105, 
+                    "balls": 182, 
+                    "name": "JA Rudolph", 
+                    "fours": 15, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 29, 
+                    "balls": 55, 
+                    "name": "AB de Villiers", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled KS Williamson"
+                }, 
+                {
+                    "runs": 34, 
+                    "balls": 70, 
+                    "name": "MV Boucher", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 74, 
+                    "overs": 23.0, 
+                    "name": "CS Martin", 
+                    "maiden": 4, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 93, 
+                    "overs": 26.0, 
+                    "name": "TA Boult", 
+                    "maiden": 4, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 70, 
+                    "overs": 25.0, 
+                    "name": "DAJ Bracewell", 
+                    "maiden": 3, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 100, 
+                    "overs": 26.0, 
+                    "name": "TG Southee", 
+                    "maiden": 4, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 65, 
+                    "overs": 32.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 5, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 9, 
+                    "overs": 1.0, 
+                    "name": "RJ Nicol", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 7.0, 
+                    "name": "KS Williamson", 
+                    "maiden": 4, 
+                    "wickets": 1
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 8.0, 
+                    "score": 16, 
+                    "name": "MJ Guptill", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 20.1, 
+                    "score": 55, 
+                    "name": "RJ Nicol", 
+                    "wkt_nbr": 2
+                }
+            ], 
+            "summary": {
+                "runs": 137, 
+                "bowlteam": "South Africa", 
+                "batteam": "New Zealand", 
+                "wickets": 2, 
+                "inning_no": 4, 
+                "overs": 41
+            }, 
+            "batting": [
+                {
+                    "runs": 19, 
+                    "balls": 71, 
+                    "name": "RJ Nicol", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught GC Smith bowled Imran Tahir"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 18, 
+                    "name": "MJ Guptill", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught AB de Villiers bowled VD Philander"
+                }, 
+                {
+                    "runs": 58, 
+                    "balls": 91, 
+                    "name": "BB McCullum", 
+                    "fours": 5, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 48, 
+                    "balls": 68, 
+                    "name": "LRPL Taylor", 
+                    "fours": 8, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 25, 
+                    "overs": 8.0, 
+                    "name": "DW Steyn", 
+                    "maiden": 2, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 29, 
+                    "overs": 12.0, 
+                    "name": "VD Philander", 
+                    "maiden": 2, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 9.0, 
+                    "name": "M Morkel", 
+                    "maiden": 2, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 8.0, 
+                    "name": "Imran Tahir", 
+                    "maiden": 2, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 15, 
+                    "overs": 4.0, 
+                    "name": "JH Kallis", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Dunedin", 
+        "venue": "University Oval", 
+        "teams": "New Zealand vs South Africa", 
+        "mtype": "Test", 
+        "mom": "GC Smith", 
+        "date": "2012-03-07", 
+        "id": "520603"
+    }
+}

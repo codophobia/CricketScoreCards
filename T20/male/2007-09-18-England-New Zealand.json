@@ -1,0 +1,398 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 1.0, 
+                    "score": 7, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 2.2, 
+                    "score": 16, 
+                    "name": "PG Fulton", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 3.5, 
+                    "score": 25, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 5.5, 
+                    "score": 31, 
+                    "name": "L Vincent", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 12.5, 
+                    "score": 91, 
+                    "name": "SB Styris", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 16.2, 
+                    "score": 134, 
+                    "name": "CD McMillan", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 16.4, 
+                    "score": 138, 
+                    "name": "JDP Oram", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 17.4, 
+                    "score": 145, 
+                    "name": "SE Bond", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 20.0, 
+                    "score": 164, 
+                    "name": "MR Gillespie", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 164, 
+                "bowlteam": "England", 
+                "batteam": "New Zealand", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 13, 
+                    "balls": 17, 
+                    "name": "L Vincent", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught VS Solanki bowled SCJ Broad"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 5, 
+                    "name": "BB McCullum", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught VS Solanki bowled JM Anderson"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "PG Fulton", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled A Flintoff"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 8, 
+                    "name": "LRPL Taylor", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "caught A Flintoff bowled JM Anderson"
+                }, 
+                {
+                    "runs": 42, 
+                    "balls": 31, 
+                    "name": "SB Styris", 
+                    "fours": 1, 
+                    "six": 4, 
+                    "dismissal": "run out DL Maddy "
+                }, 
+                {
+                    "runs": 57, 
+                    "balls": 31, 
+                    "name": "CD McMillan", 
+                    "fours": 3, 
+                    "six": 4, 
+                    "dismissal": "caught AD Mascarenhas bowled DL Maddy"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 6, 
+                    "name": "JDP Oram", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled DL Maddy"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 9, 
+                    "name": "DL Vettori", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 3, 
+                    "name": "SE Bond", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled PD Collingwood"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 8, 
+                    "name": "MR Gillespie", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out JM Anderson "
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 24, 
+                    "overs": 4.0, 
+                    "name": "JM Anderson", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 35, 
+                    "overs": 4.0, 
+                    "name": "SCJ Broad", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 11, 
+                    "overs": 3.0, 
+                    "name": "A Flintoff", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 43, 
+                    "overs": 4.0, 
+                    "name": "AD Mascarenhas", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 30, 
+                    "overs": 3.0, 
+                    "name": "PD Collingwood", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 1.0, 
+                    "name": "CP Schofield", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 6, 
+                    "overs": 1.0, 
+                    "name": "DL Maddy", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 7.5, 
+                    "score": 62, 
+                    "name": "VS Solanki", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 10.4, 
+                    "score": 80, 
+                    "name": "DL Maddy", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 12.1, 
+                    "score": 87, 
+                    "name": "PD Collingwood", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 13.2, 
+                    "score": 103, 
+                    "name": "KP Pietersen", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 13.4, 
+                    "score": 104, 
+                    "name": "A Flintoff", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 18.1, 
+                    "score": 146, 
+                    "name": "OA Shah", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 18.2, 
+                    "score": 146, 
+                    "name": "AD Mascarenhas", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 18.5, 
+                    "score": 148, 
+                    "name": "LJ Wright", 
+                    "wkt_nbr": 8
+                }
+            ], 
+            "summary": {
+                "runs": 159, 
+                "bowlteam": "New Zealand", 
+                "batteam": "England", 
+                "wickets": 8, 
+                "inning_no": 2, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 50, 
+                    "balls": 31, 
+                    "name": "DL Maddy", 
+                    "fours": 4, 
+                    "six": 2, 
+                    "dismissal": "run out CD McMillan "
+                }, 
+                {
+                    "runs": 24, 
+                    "balls": 25, 
+                    "name": "VS Solanki", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "caught L Vincent bowled DL Vettori"
+                }, 
+                {
+                    "runs": 24, 
+                    "balls": 16, 
+                    "name": "KP Pietersen", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "bowled DL Vettori"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 5, 
+                    "name": "PD Collingwood", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught CD McMillan bowled CS Martin"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 16, 
+                    "name": "OA Shah", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "run out DL Vettori "
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "A Flintoff", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "run out L Vincent "
+                }, 
+                {
+                    "runs": 24, 
+                    "balls": 17, 
+                    "name": "LJ Wright", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "caught JS Patel (sub) bowled SE Bond"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "AD Mascarenhas", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JS Patel (sub) bowled SE Bond"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 6, 
+                    "name": "CP Schofield", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 2, 
+                    "name": "SCJ Broad", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 20, 
+                    "overs": 4.0, 
+                    "name": "SE Bond", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 37, 
+                    "overs": 4.0, 
+                    "name": "MR Gillespie", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 26, 
+                    "overs": 2.0, 
+                    "name": "JDP Oram", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 37, 
+                    "overs": 4.0, 
+                    "name": "CS Martin", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 20, 
+                    "overs": 4.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 19, 
+                    "overs": 2.0, 
+                    "name": "SB Styris", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Durban", 
+        "venue": "Kingsmead", 
+        "teams": "England vs New Zealand", 
+        "mtype": "T20", 
+        "mom": "CD McMillan", 
+        "date": "2007-09-18", 
+        "id": "287869"
+    }
+}

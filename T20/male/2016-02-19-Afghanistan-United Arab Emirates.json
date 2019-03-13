@@ -1,0 +1,348 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 8.5, 
+                    "score": 83, 
+                    "name": "Muhammad Kaleem", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 13.0, 
+                    "score": 121, 
+                    "name": "Shaiman Anwar", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 13.2, 
+                    "score": 122, 
+                    "name": "Rohan Mustafa", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 15.0, 
+                    "score": 128, 
+                    "name": "Amjad Javed", 
+                    "wkt_nbr": 4
+                }
+            ], 
+            "summary": {
+                "runs": 176, 
+                "bowlteam": "Afghanistan", 
+                "batteam": "United Arab Emirates", 
+                "wickets": 4, 
+                "inning_no": 1, 
+                "overs": 20
+            }, 
+            "batting": [
+                {
+                    "runs": 77, 
+                    "balls": 50, 
+                    "name": "Rohan Mustafa", 
+                    "fours": 7, 
+                    "six": 4, 
+                    "dismissal": "caught Shapoor Zadran bowled Amir Hamza"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 19, 
+                    "name": "Muhammad Kaleem", 
+                    "fours": 3, 
+                    "six": 1, 
+                    "dismissal": "bowled Rashid Khan"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 10, 
+                    "name": "Shaiman Anwar", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught Dawlat Zadran bowled Rashid Khan"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 5, 
+                    "name": "Amjad Javed", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled Rashid Khan"
+                }, 
+                {
+                    "runs": 23, 
+                    "balls": 20, 
+                    "name": "Usman Mushtaq", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 25, 
+                    "balls": 16, 
+                    "name": "Mohammad Shahzad (2)", 
+                    "fours": 0, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 28, 
+                    "overs": 4.0, 
+                    "name": "Dawlat Zadran", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 26, 
+                    "overs": 2.0, 
+                    "name": "Shapoor Zadran", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 36, 
+                    "overs": 4.0, 
+                    "name": "Mohammad Nabi", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 32, 
+                    "overs": 4.0, 
+                    "name": "Amir Hamza", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 4.0, 
+                    "name": "Rashid Khan", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 18, 
+                    "overs": 2.0, 
+                    "name": "Gulbadin Naib", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 2.0, 
+                    "score": 9, 
+                    "name": "Mohammad Shahzad", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 2.2, 
+                    "score": 9, 
+                    "name": "Usman Ghani", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 5.4, 
+                    "score": 37, 
+                    "name": "Asghar Stanikzai", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 11.3, 
+                    "score": 84, 
+                    "name": "Mohammad Nabi", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 14.2, 
+                    "score": 103, 
+                    "name": "Gulbadin Naib", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 18.0, 
+                    "score": 144, 
+                    "name": "Najibullah Zadran", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 18.1, 
+                    "score": 144, 
+                    "name": "Karim Sadiq", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 19.2, 
+                    "score": 156, 
+                    "name": "Dawlat Zadran", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 19.3, 
+                    "score": 156, 
+                    "name": "Shapoor Zadran", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 19.5, 
+                    "score": 160, 
+                    "name": "Amir Hamza", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 160, 
+                "bowlteam": "United Arab Emirates", 
+                "batteam": "Afghanistan", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 19.5
+            }, 
+            "batting": [
+                {
+                    "runs": 6, 
+                    "balls": 8, 
+                    "name": "Mohammad Shahzad", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled Farhan Ahmed"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 6, 
+                    "name": "Usman Ghani", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught Rohan Mustafa bowled Mohammad Naveed"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 9, 
+                    "name": "Asghar Stanikzai", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled Amjad Javed"
+                }, 
+                {
+                    "runs": 72, 
+                    "balls": 48, 
+                    "name": "Karim Sadiq", 
+                    "fours": 8, 
+                    "six": 1, 
+                    "dismissal": "bowled Mohammad Naveed"
+                }, 
+                {
+                    "runs": 23, 
+                    "balls": 18, 
+                    "name": "Mohammad Nabi", 
+                    "fours": 0, 
+                    "six": 2, 
+                    "dismissal": "caught Shaiman Anwar bowled Farhan Ahmed"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 7, 
+                    "name": "Gulbadin Naib", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught SP Patil bowled Ahmed Raza"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 14, 
+                    "name": "Najibullah Zadran", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "run out SP Patil "
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 4, 
+                    "name": "Dawlat Zadran", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled Rohan Mustafa"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 3, 
+                    "name": "Rashid Khan", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "Shapoor Zadran", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled Rohan Mustafa"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 2, 
+                    "name": "Amir Hamza", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "stumped SP Patil bowled Rohan Mustafa"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 29, 
+                    "overs": 4.0, 
+                    "name": "Mohammad Naveed", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 28, 
+                    "overs": 4.0, 
+                    "name": "Farhan Ahmed", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 26, 
+                    "overs": 3.0, 
+                    "name": "Amjad Javed", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 32, 
+                    "overs": 4.0, 
+                    "name": "Ahmed Raza", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 19, 
+                    "overs": 2.5, 
+                    "name": "Rohan Mustafa", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 2.0, 
+                    "name": "Mohammad Shahzad (2)", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Fatullah", 
+        "venue": "Khan Shaheb Osman Ali Stadium", 
+        "teams": "Afghanistan vs United Arab Emirates", 
+        "mtype": "T20", 
+        "date": "2016-02-19", 
+        "id": "966713"
+    }
+}

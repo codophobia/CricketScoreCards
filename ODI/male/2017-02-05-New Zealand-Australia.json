@@ -1,0 +1,419 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 3.0, 
+                    "score": 6, 
+                    "name": "TWM Latham", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 14.5, 
+                    "score": 76, 
+                    "name": "KS Williamson", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 31.5, 
+                    "score": 176, 
+                    "name": "DG Brownlie", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 36.0, 
+                    "score": 198, 
+                    "name": "NT Broom", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 38.4, 
+                    "score": 205, 
+                    "name": "C Munro", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 40.2, 
+                    "score": 209, 
+                    "name": "JDS Neesham", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 46.5, 
+                    "score": 246, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 49.1, 
+                    "score": 265, 
+                    "name": "TG Southee", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 49.2, 
+                    "score": 265, 
+                    "name": "LH Ferguson", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 281, 
+                "bowlteam": "Australia", 
+                "batteam": "New Zealand", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 63, 
+                    "balls": 78, 
+                    "name": "DG Brownlie", 
+                    "fours": 7, 
+                    "six": 0, 
+                    "dismissal": "caught PSP Handscomb bowled JP Faulkner"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 8, 
+                    "name": "TWM Latham", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JR Hazlewood bowled MA Starc"
+                }, 
+                {
+                    "runs": 37, 
+                    "balls": 42, 
+                    "name": "KS Williamson", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught PSP Handscomb bowled PJ Cummins"
+                }, 
+                {
+                    "runs": 107, 
+                    "balls": 101, 
+                    "name": "LRPL Taylor", 
+                    "fours": 13, 
+                    "six": 0, 
+                    "dismissal": "caught MP Stoinis bowled JP Faulkner"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 12, 
+                    "name": "NT Broom", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught PSP Handscomb bowled JP Faulkner"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 9, 
+                    "name": "C Munro", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MA Starc bowled JR Hazlewood"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 7, 
+                    "name": "JDS Neesham", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled JR Hazlewood"
+                }, 
+                {
+                    "runs": 38, 
+                    "balls": 34, 
+                    "name": "MJ Santner", 
+                    "fours": 3, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 8, 
+                    "name": "TG Southee", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "bowled MA Starc"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "LH Ferguson", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled MA Starc"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 1, 
+                    "name": "TA Boult", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 63, 
+                    "overs": 10.0, 
+                    "name": "MA Starc", 
+                    "maiden": 1, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 44, 
+                    "overs": 10.0, 
+                    "name": "JR Hazlewood", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 22, 
+                    "overs": 4.0, 
+                    "name": "MP Stoinis", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 10.0, 
+                    "name": "PJ Cummins", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 41, 
+                    "overs": 7.0, 
+                    "name": "A Zampa", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 59, 
+                    "overs": 9.0, 
+                    "name": "JP Faulkner", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 7.2, 
+                    "score": 44, 
+                    "name": "SE Marsh", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 7.4, 
+                    "score": 44, 
+                    "name": "PSP Handscomb", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 21.0, 
+                    "score": 119, 
+                    "name": "AJ Finch", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 22.0, 
+                    "score": 120, 
+                    "name": "GJ Maxwell", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 32.2, 
+                    "score": 173, 
+                    "name": "TM Head", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 33.0, 
+                    "score": 174, 
+                    "name": "JP Faulkner", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 39.1, 
+                    "score": 198, 
+                    "name": "MP Stoinis", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 44.4, 
+                    "score": 249, 
+                    "name": "PJ Cummins", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 46.1, 
+                    "score": 253, 
+                    "name": "A Zampa", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 47.0, 
+                    "score": 257, 
+                    "name": "JR Hazlewood", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 257, 
+                "bowlteam": "New Zealand", 
+                "batteam": "Australia", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 47
+            }, 
+            "batting": [
+                {
+                    "runs": 56, 
+                    "balls": 64, 
+                    "name": "AJ Finch", 
+                    "fours": 5, 
+                    "six": 2, 
+                    "dismissal": "caught TA Boult bowled KS Williamson"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 22, 
+                    "name": "SE Marsh", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "run out MJ Santner "
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "PSP Handscomb", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled TA Boult"
+                }, 
+                {
+                    "runs": 53, 
+                    "balls": 72, 
+                    "name": "TM Head", 
+                    "fours": 5, 
+                    "six": 0, 
+                    "dismissal": "caught DG Brownlie bowled TA Boult"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 3, 
+                    "name": "GJ Maxwell", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught TWM Latham bowled MJ Santner"
+                }, 
+                {
+                    "runs": 42, 
+                    "balls": 48, 
+                    "name": "MP Stoinis", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "caught JDS Neesham bowled MJ Santner"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 3, 
+                    "name": "JP Faulkner", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled TA Boult"
+                }, 
+                {
+                    "runs": 27, 
+                    "balls": 35, 
+                    "name": "PJ Cummins", 
+                    "fours": 1, 
+                    "six": 2, 
+                    "dismissal": "caught MJ Santner bowled TA Boult"
+                }, 
+                {
+                    "runs": 29, 
+                    "balls": 23, 
+                    "name": "MA Starc", 
+                    "fours": 2, 
+                    "six": 2, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 5, 
+                    "name": "A Zampa", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled TA Boult"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 5, 
+                    "name": "JR Hazlewood", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled TA Boult"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 39, 
+                    "overs": 8.0, 
+                    "name": "TG Southee", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 10.0, 
+                    "name": "TA Boult", 
+                    "maiden": 1, 
+                    "wickets": 6
+                }, 
+                {
+                    "runs": 62, 
+                    "overs": 9.0, 
+                    "name": "LH Ferguson", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 17, 
+                    "overs": 3.0, 
+                    "name": "JDS Neesham", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 50, 
+                    "overs": 10.0, 
+                    "name": "MJ Santner", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 44, 
+                    "overs": 7.0, 
+                    "name": "KS Williamson", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Hamilton", 
+        "venue": "Seddon Park", 
+        "teams": "New Zealand vs Australia", 
+        "mtype": "ODI", 
+        "mom": "TA Boult", 
+        "date": "2017-02-05", 
+        "id": "1020017"
+    }
+}

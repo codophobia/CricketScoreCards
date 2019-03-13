@@ -1,0 +1,419 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 0.2, 
+                    "score": 0, 
+                    "name": "MJ Guptill", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 20.3, 
+                    "score": 120, 
+                    "name": "TWM Latham", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 31.0, 
+                    "score": 158, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 40.5, 
+                    "score": 204, 
+                    "name": "CJ Anderson", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 42.4, 
+                    "score": 213, 
+                    "name": "KS Williamson", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 43.3, 
+                    "score": 216, 
+                    "name": "L Ronchi", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 45.1, 
+                    "score": 224, 
+                    "name": "AP Devcich", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 45.5, 
+                    "score": 225, 
+                    "name": "TG Southee", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 49.2, 
+                    "score": 237, 
+                    "name": "MJ Henry", 
+                    "wkt_nbr": 9
+                }
+            ], 
+            "summary": {
+                "runs": 242, 
+                "bowlteam": "India", 
+                "batteam": "New Zealand", 
+                "wickets": 9, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "MJ Guptill", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled UT Yadav"
+                }, 
+                {
+                    "runs": 46, 
+                    "balls": 46, 
+                    "name": "TWM Latham", 
+                    "fours": 6, 
+                    "six": 1, 
+                    "dismissal": "lbw bowled KM Jadhav"
+                }, 
+                {
+                    "runs": 118, 
+                    "balls": 128, 
+                    "name": "KS Williamson", 
+                    "fours": 14, 
+                    "six": 1, 
+                    "dismissal": "caught AM Rahane bowled A Mishra"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 42, 
+                    "name": "LRPL Taylor", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught RG Sharma bowled A Mishra"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 32, 
+                    "name": "CJ Anderson", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled A Mishra"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 10, 
+                    "name": "L Ronchi", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MS Dhoni bowled AR Patel"
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 16, 
+                    "name": "MJ Santner", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 6, 
+                    "name": "AP Devcich", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught AR Patel bowled JJ Bumrah"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "TG Southee", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled JJ Bumrah"
+                }, 
+                {
+                    "runs": 6, 
+                    "balls": 12, 
+                    "name": "MJ Henry", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled JJ Bumrah"
+                }, 
+                {
+                    "runs": 5, 
+                    "balls": 4, 
+                    "name": "TA Boult", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 42, 
+                    "overs": 9.0, 
+                    "name": "UT Yadav", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 45, 
+                    "overs": 9.0, 
+                    "name": "HH Pandya", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 35, 
+                    "overs": 10.0, 
+                    "name": "JJ Bumrah", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 49, 
+                    "overs": 10.0, 
+                    "name": "AR Patel", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 60, 
+                    "overs": 10.0, 
+                    "name": "A Mishra", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 11, 
+                    "overs": 2.0, 
+                    "name": "KM Jadhav", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 7.1, 
+                    "score": 21, 
+                    "name": "RG Sharma", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 11.4, 
+                    "score": 40, 
+                    "name": "V Kohli", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 18.4, 
+                    "score": 72, 
+                    "name": "AM Rahane", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 19.2, 
+                    "score": 73, 
+                    "name": "MK Pandey", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 31.1, 
+                    "score": 139, 
+                    "name": "KM Jadhav", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 39.3, 
+                    "score": 172, 
+                    "name": "MS Dhoni", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 40.1, 
+                    "score": 180, 
+                    "name": "AR Patel", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 40.5, 
+                    "score": 183, 
+                    "name": "A Mishra", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 48.5, 
+                    "score": 232, 
+                    "name": "HH Pandya", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 49.3, 
+                    "score": 236, 
+                    "name": "JJ Bumrah", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 236, 
+                "bowlteam": "New Zealand", 
+                "batteam": "India", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 49.3
+            }, 
+            "batting": [
+                {
+                    "runs": 15, 
+                    "balls": 27, 
+                    "name": "RG Sharma", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "caught L Ronchi bowled TA Boult"
+                }, 
+                {
+                    "runs": 28, 
+                    "balls": 49, 
+                    "name": "AM Rahane", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught CJ Anderson bowled TG Southee"
+                }, 
+                {
+                    "runs": 9, 
+                    "balls": 13, 
+                    "name": "V Kohli", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught L Ronchi bowled MJ Santner"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 25, 
+                    "name": "MK Pandey", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "run out MJ Santner "
+                }, 
+                {
+                    "runs": 39, 
+                    "balls": 65, 
+                    "name": "MS Dhoni", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled TG Southee"
+                }, 
+                {
+                    "runs": 41, 
+                    "balls": 37, 
+                    "name": "KM Jadhav", 
+                    "fours": 2, 
+                    "six": 2, 
+                    "dismissal": "caught L Ronchi bowled MJ Henry"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 22, 
+                    "name": "AR Patel", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "caught MJ Santner bowled MJ Guptill"
+                }, 
+                {
+                    "runs": 36, 
+                    "balls": 32, 
+                    "name": "HH Pandya", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Santner bowled TA Boult"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 3, 
+                    "name": "A Mishra", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught DAJ Bracewell (sub) bowled MJ Guptill"
+                }, 
+                {
+                    "runs": 18, 
+                    "balls": 23, 
+                    "name": "UT Yadav", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "JJ Bumrah", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled TG Southee"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 51, 
+                    "overs": 10.0, 
+                    "name": "MJ Henry", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 25, 
+                    "overs": 10.0, 
+                    "name": "TA Boult", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 52, 
+                    "overs": 9.3, 
+                    "name": "TG Southee", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 48, 
+                    "overs": 9.0, 
+                    "name": "AP Devcich", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 49, 
+                    "overs": 10.0, 
+                    "name": "MJ Santner", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 6, 
+                    "overs": 1.0, 
+                    "name": "MJ Guptill", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Delhi", 
+        "venue": "Feroz Shah Kotla", 
+        "teams": "India vs New Zealand", 
+        "mtype": "ODI", 
+        "mom": "KS Williamson", 
+        "date": "2016-10-20", 
+        "id": "1030221"
+    }
+}

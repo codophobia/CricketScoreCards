@@ -1,0 +1,336 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 1.5, 
+                    "score": 3, 
+                    "name": "GC Smith", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 3.0, 
+                    "score": 3, 
+                    "name": "AB de Villiers", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 19.5, 
+                    "score": 52, 
+                    "name": "JH Kallis", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 37.0, 
+                    "score": 128, 
+                    "name": "HH Gibbs", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 40.5, 
+                    "score": 143, 
+                    "name": "AG Prince", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 42.2, 
+                    "score": 149, 
+                    "name": "MV Boucher", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 48.0, 
+                    "score": 181, 
+                    "name": "AJ Hall", 
+                    "wkt_nbr": 7
+                }
+            ], 
+            "summary": {
+                "runs": 193, 
+                "bowlteam": "New Zealand", 
+                "batteam": "South Africa", 
+                "wickets": 7, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 1, 
+                    "balls": 12, 
+                    "name": "GC Smith", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JDP Oram bowled SE Bond"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 6, 
+                    "name": "AB de Villiers", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 54, 
+                    "name": "JH Kallis", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "caught SE Bond bowled DL Vettori"
+                }, 
+                {
+                    "runs": 60, 
+                    "balls": 100, 
+                    "name": "HH Gibbs", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "bowled CD McMillan"
+                }, 
+                {
+                    "runs": 37, 
+                    "balls": 57, 
+                    "name": "AG Prince", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught JS Patel bowled CD McMillan"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 21, 
+                    "name": "MV Boucher", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught PG Fulton bowled CD McMillan"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 26, 
+                    "name": "SM Pollock", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 17, 
+                    "name": "AJ Hall", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught JDP Oram bowled SE Bond"
+                }, 
+                {
+                    "runs": 8, 
+                    "balls": 8, 
+                    "name": "RJ Peterson", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 16, 
+                    "overs": 7.0, 
+                    "name": "JEC Franklin", 
+                    "maiden": 2, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 26, 
+                    "overs": 10.0, 
+                    "name": "SE Bond", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 23, 
+                    "overs": 5.0, 
+                    "name": "JDP Oram", 
+                    "maiden": 2, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 36, 
+                    "overs": 10.0, 
+                    "name": "JS Patel", 
+                    "maiden": 1, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 50, 
+                    "overs": 10.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 16, 
+                    "overs": 3.0, 
+                    "name": "SB Styris", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 23, 
+                    "overs": 5.0, 
+                    "name": "CD McMillan", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 7.2, 
+                    "score": 25, 
+                    "name": "PG Fulton", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 12.2, 
+                    "score": 42, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 30.1, 
+                    "score": 120, 
+                    "name": "SP Fleming", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 43.4, 
+                    "score": 176, 
+                    "name": "SB Styris", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 48.1, 
+                    "score": 192, 
+                    "name": "JDP Oram", 
+                    "wkt_nbr": 5
+                }
+            ], 
+            "summary": {
+                "runs": 196, 
+                "bowlteam": "South Africa", 
+                "batteam": "New Zealand", 
+                "wickets": 5, 
+                "inning_no": 2, 
+                "overs": 48.2
+            }, 
+            "batting": [
+                {
+                    "runs": 16, 
+                    "balls": 32, 
+                    "name": "PG Fulton", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught AJ Hall bowled M Ntini"
+                }, 
+                {
+                    "runs": 50, 
+                    "balls": 84, 
+                    "name": "SP Fleming", 
+                    "fours": 6, 
+                    "six": 0, 
+                    "dismissal": "caught MV Boucher bowled SM Pollock"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 17, 
+                    "name": "LRPL Taylor", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled A Nel"
+                }, 
+                {
+                    "runs": 56, 
+                    "balls": 84, 
+                    "name": "SB Styris", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "caught HH Gibbs bowled RJ Peterson"
+                }, 
+                {
+                    "runs": 38, 
+                    "balls": 55, 
+                    "name": "CD McMillan", 
+                    "fours": 2, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 18, 
+                    "name": "JDP Oram", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled A Nel"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 1, 
+                    "name": "BB McCullum", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 30, 
+                    "overs": 10.0, 
+                    "name": "SM Pollock", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 42, 
+                    "overs": 10.0, 
+                    "name": "M Ntini", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 9.2, 
+                    "name": "A Nel", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 32, 
+                    "overs": 8.0, 
+                    "name": "AJ Hall", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 17, 
+                    "overs": 4.0, 
+                    "name": "JH Kallis", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 39, 
+                    "overs": 7.0, 
+                    "name": "RJ Peterson", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Grenada", 
+        "venue": "National Cricket Stadium, St George's", 
+        "teams": "New Zealand vs South Africa", 
+        "mtype": "ODI", 
+        "mom": "CD McMillan", 
+        "date": "2007-04-14", 
+        "id": "247497"
+    }
+}

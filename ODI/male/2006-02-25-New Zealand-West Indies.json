@@ -1,0 +1,377 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 6.1, 
+                    "score": 34, 
+                    "name": "L Vincent", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 13.0, 
+                    "score": 61, 
+                    "name": "SP Fleming", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 14.2, 
+                    "score": 64, 
+                    "name": "SB Styris", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 21.0, 
+                    "score": 87, 
+                    "name": "PG Fulton", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 41.2, 
+                    "score": 186, 
+                    "name": "HJH Marshall", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 44.2, 
+                    "score": 211, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 6
+                }
+            ], 
+            "summary": {
+                "runs": 276, 
+                "bowlteam": "West Indies", 
+                "batteam": "New Zealand", 
+                "wickets": 6, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 25, 
+                    "balls": 22, 
+                    "name": "L Vincent", 
+                    "fours": 1, 
+                    "six": 3, 
+                    "dismissal": "caught S Chanderpaul bowled IDR Bradshaw"
+                }, 
+                {
+                    "runs": 15, 
+                    "balls": 39, 
+                    "name": "SP Fleming", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught RS Morton bowled IDR Bradshaw"
+                }, 
+                {
+                    "runs": 118, 
+                    "balls": 126, 
+                    "name": "NJ Astle", 
+                    "fours": 7, 
+                    "six": 3, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 5, 
+                    "name": "SB Styris", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught D Ramdin bowled IDR Bradshaw"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 30, 
+                    "name": "PG Fulton", 
+                    "fours": 3, 
+                    "six": 1, 
+                    "dismissal": "caught CH Gayle bowled DR Smith"
+                }, 
+                {
+                    "runs": 43, 
+                    "balls": 54, 
+                    "name": "HJH Marshall", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught D Ganga bowled CH Gayle"
+                }, 
+                {
+                    "runs": 13, 
+                    "balls": 10, 
+                    "name": "BB McCullum", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "run out D Ramdin "
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 17, 
+                    "name": "JEC Franklin", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 41, 
+                    "overs": 8.0, 
+                    "name": "IDR Bradshaw", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 49, 
+                    "overs": 10.0, 
+                    "name": "FH Edwards", 
+                    "maiden": 2, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 37, 
+                    "overs": 10.0, 
+                    "name": "DK Butler", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 33, 
+                    "overs": 7.0, 
+                    "name": "DR Smith", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 34, 
+                    "overs": 6.0, 
+                    "name": "WW Hinds", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 70, 
+                    "overs": 9.0, 
+                    "name": "CH Gayle", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 1.3, 
+                    "score": 2, 
+                    "name": "D Ganga", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 8.4, 
+                    "score": 58, 
+                    "name": "CH Gayle", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 20.2, 
+                    "score": 127, 
+                    "name": "RS Morton", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 20.5, 
+                    "score": 128, 
+                    "name": "D Ramdin", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 25.3, 
+                    "score": 141, 
+                    "name": "S Chanderpaul", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 29.1, 
+                    "score": 147, 
+                    "name": "WW Hinds", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 31.3, 
+                    "score": 153, 
+                    "name": "DR Smith", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 38.0, 
+                    "score": 173, 
+                    "name": "RN Lewis", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 48.0, 
+                    "score": 250, 
+                    "name": "IDR Bradshaw", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 49.0, 
+                    "score": 255, 
+                    "name": "RR Sarwan", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 255, 
+                "bowlteam": "New Zealand", 
+                "batteam": "West Indies", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 49
+            }, 
+            "batting": [
+                {
+                    "runs": 38, 
+                    "balls": 23, 
+                    "name": "CH Gayle", 
+                    "fours": 6, 
+                    "six": 2, 
+                    "dismissal": "caught DL Vettori bowled MJ Mason"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 4, 
+                    "name": "D Ganga", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled SE Bond"
+                }, 
+                {
+                    "runs": 58, 
+                    "balls": 62, 
+                    "name": "RS Morton", 
+                    "fours": 7, 
+                    "six": 1, 
+                    "dismissal": "caught JEC Franklin bowled DL Vettori"
+                }, 
+                {
+                    "runs": 28, 
+                    "balls": 35, 
+                    "name": "D Ramdin", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled DL Vettori"
+                }, 
+                {
+                    "runs": 65, 
+                    "balls": 78, 
+                    "name": "RR Sarwan", 
+                    "fours": 7, 
+                    "six": 0, 
+                    "dismissal": "caught L Vincent bowled SE Bond"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 15, 
+                    "name": "S Chanderpaul", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled SE Bond"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 11, 
+                    "name": "WW Hinds", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "stumped BB McCullum bowled JS Patel"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 4, 
+                    "name": "DR Smith", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught NJ Astle bowled JS Patel"
+                }, 
+                {
+                    "runs": 10, 
+                    "balls": 25, 
+                    "name": "RN Lewis", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled JS Patel"
+                }, 
+                {
+                    "runs": 37, 
+                    "balls": 34, 
+                    "name": "IDR Bradshaw", 
+                    "fours": 0, 
+                    "six": 3, 
+                    "dismissal": "caught L Vincent bowled MJ Mason"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 3, 
+                    "name": "DK Butler", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 47, 
+                    "overs": 6.0, 
+                    "name": "JEC Franklin", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 10.0, 
+                    "name": "SE Bond", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 63, 
+                    "overs": 10.0, 
+                    "name": "MJ Mason", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 40, 
+                    "overs": 10.0, 
+                    "name": "DL Vettori", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 15, 
+                    "overs": 5.0, 
+                    "name": "SB Styris", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 42, 
+                    "overs": 8.0, 
+                    "name": "JS Patel", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Christchurch", 
+        "venue": "Jade Stadium", 
+        "teams": "New Zealand vs West Indies", 
+        "mtype": "ODI", 
+        "mom": "NJ Astle", 
+        "date": "2006-02-25", 
+        "id": "238177"
+    }
+}

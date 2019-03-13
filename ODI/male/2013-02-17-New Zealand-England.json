@@ -1,0 +1,390 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 3.4, 
+                    "score": 11, 
+                    "name": "AN Cook", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 24.0, 
+                    "score": 95, 
+                    "name": "IR Bell", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 38.5, 
+                    "score": 184, 
+                    "name": "IJL Trott", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 40.1, 
+                    "score": 190, 
+                    "name": "EJG Morgan", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 43.3, 
+                    "score": 220, 
+                    "name": "JC Buttler", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 44.4, 
+                    "score": 222, 
+                    "name": "JE Root", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 46.1, 
+                    "score": 228, 
+                    "name": "SCJ Broad", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 48.0, 
+                    "score": 247, 
+                    "name": "CR Woakes", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 48.3, 
+                    "score": 248, 
+                    "name": "ST Finn", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 49.3, 
+                    "score": 258, 
+                    "name": "GP Swann", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 258, 
+                "bowlteam": "New Zealand", 
+                "batteam": "England", 
+                "wickets": 10, 
+                "inning_no": 1, 
+                "overs": 49.3
+            }, 
+            "batting": [
+                {
+                    "runs": 4, 
+                    "balls": 13, 
+                    "name": "AN Cook", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 64, 
+                    "balls": 79, 
+                    "name": "IR Bell", 
+                    "fours": 6, 
+                    "six": 2, 
+                    "dismissal": "caught BB McCullum bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 68, 
+                    "balls": 90, 
+                    "name": "IJL Trott", 
+                    "fours": 6, 
+                    "six": 0, 
+                    "dismissal": "bowled KD Mills"
+                }, 
+                {
+                    "runs": 56, 
+                    "balls": 64, 
+                    "name": "JE Root", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 4, 
+                    "name": "EJG Morgan", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Guptill bowled KD Mills"
+                }, 
+                {
+                    "runs": 21, 
+                    "balls": 13, 
+                    "name": "JC Buttler", 
+                    "fours": 0, 
+                    "six": 2, 
+                    "dismissal": "caught GD Elliott bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 16, 
+                    "name": "CR Woakes", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled AM Ellis"
+                }, 
+                {
+                    "runs": 1, 
+                    "balls": 4, 
+                    "name": "SCJ Broad", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught BB McCullum bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 16, 
+                    "balls": 11, 
+                    "name": "GP Swann", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught LRPL Taylor bowled JEC Franklin"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "ST Finn", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught MJ Guptill bowled MJ McClenaghan"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 2, 
+                    "name": "JM Anderson", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 32, 
+                    "overs": 10.0, 
+                    "name": "KD Mills", 
+                    "maiden": 2, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 56, 
+                    "overs": 9.4, 
+                    "name": "MJ McClenaghan", 
+                    "maiden": 0, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 67, 
+                    "overs": 10.0, 
+                    "name": "AM Ellis", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 42, 
+                    "overs": 10.0, 
+                    "name": "NL McCullum", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 38, 
+                    "overs": 6.3, 
+                    "name": "JEC Franklin", 
+                    "maiden": 0, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 2.2, 
+                    "name": "KS Williamson", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 7, 
+                    "overs": 1.0, 
+                    "name": "GD Elliott", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 1.0, 
+                    "score": 2, 
+                    "name": "BJ Watling", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 20.0, 
+                    "score": 75, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 29.2, 
+                    "score": 124, 
+                    "name": "GD Elliott", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 34.0, 
+                    "score": 142, 
+                    "name": "KS Williamson", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 37.4, 
+                    "score": 155, 
+                    "name": "JEC Franklin", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 41.0, 
+                    "score": 186, 
+                    "name": "NL McCullum", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 45.5, 
+                    "score": 218, 
+                    "name": "AM Ellis", 
+                    "wkt_nbr": 7
+                }
+            ], 
+            "summary": {
+                "runs": 259, 
+                "bowlteam": "England", 
+                "batteam": "New Zealand", 
+                "wickets": 7, 
+                "inning_no": 2, 
+                "overs": 48.5
+            }, 
+            "batting": [
+                {
+                    "runs": 2, 
+                    "balls": 6, 
+                    "name": "BJ Watling", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled JM Anderson"
+                }, 
+                {
+                    "runs": 27, 
+                    "balls": 27, 
+                    "name": "MJ Guptill", 
+                    "fours": 4, 
+                    "six": 1, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 74, 
+                    "balls": 99, 
+                    "name": "KS Williamson", 
+                    "fours": 6, 
+                    "six": 0, 
+                    "dismissal": "run out IR Bell "
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 38, 
+                    "name": "LRPL Taylor", 
+                    "fours": 3, 
+                    "six": 0, 
+                    "dismissal": "caught ST Finn bowled CR Woakes"
+                }, 
+                {
+                    "runs": 22, 
+                    "balls": 24, 
+                    "name": "GD Elliott", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught EJG Morgan bowled CR Woakes"
+                }, 
+                {
+                    "runs": 69, 
+                    "balls": 61, 
+                    "name": "BB McCullum", 
+                    "fours": 6, 
+                    "six": 3, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 13, 
+                    "name": "JEC Franklin", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JC Buttler bowled ST Finn"
+                }, 
+                {
+                    "runs": 14, 
+                    "balls": 11, 
+                    "name": "NL McCullum", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "lbw bowled GP Swann"
+                }, 
+                {
+                    "runs": 13, 
+                    "balls": 14, 
+                    "name": "AM Ellis", 
+                    "fours": 1, 
+                    "six": 0, 
+                    "dismissal": "caught ST Finn bowled SCJ Broad"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 36, 
+                    "overs": 9.0, 
+                    "name": "JM Anderson", 
+                    "maiden": 1, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 54, 
+                    "overs": 10.0, 
+                    "name": "ST Finn", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 56, 
+                    "overs": 9.5, 
+                    "name": "SCJ Broad", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 52, 
+                    "overs": 10.0, 
+                    "name": "CR Woakes", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 54, 
+                    "overs": 10.0, 
+                    "name": "GP Swann", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Hamilton", 
+        "venue": "Seddon Park", 
+        "teams": "New Zealand vs England", 
+        "mtype": "ODI", 
+        "date": "2013-02-17", 
+        "id": "569240"
+    }
+}

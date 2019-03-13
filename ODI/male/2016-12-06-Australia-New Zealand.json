@@ -1,0 +1,363 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 12.2, 
+                    "score": 68, 
+                    "name": "AJ Finch", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 36.1, 
+                    "score": 213, 
+                    "name": "DA Warner", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 39.1, 
+                    "score": 248, 
+                    "name": "SPD Smith", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 46.0, 
+                    "score": 319, 
+                    "name": "TM Head", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 48.5, 
+                    "score": 357, 
+                    "name": "MS Wade", 
+                    "wkt_nbr": 5
+                }
+            ], 
+            "summary": {
+                "runs": 378, 
+                "bowlteam": "New Zealand", 
+                "batteam": "Australia", 
+                "wickets": 5, 
+                "inning_no": 1, 
+                "overs": 50
+            }, 
+            "batting": [
+                {
+                    "runs": 119, 
+                    "balls": 115, 
+                    "name": "DA Warner", 
+                    "fours": 14, 
+                    "six": 1, 
+                    "dismissal": "caught KS Williamson bowled C de Grandhomme"
+                }, 
+                {
+                    "runs": 19, 
+                    "balls": 34, 
+                    "name": "AJ Finch", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "bowled MJ Santner"
+                }, 
+                {
+                    "runs": 72, 
+                    "balls": 76, 
+                    "name": "SPD Smith", 
+                    "fours": 6, 
+                    "six": 1, 
+                    "dismissal": "caught MJ Santner bowled TG Southee"
+                }, 
+                {
+                    "runs": 57, 
+                    "balls": 32, 
+                    "name": "TM Head", 
+                    "fours": 6, 
+                    "six": 2, 
+                    "dismissal": "caught C Munro bowled TG Southee"
+                }, 
+                {
+                    "runs": 76, 
+                    "balls": 40, 
+                    "name": "MR Marsh", 
+                    "fours": 2, 
+                    "six": 7, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 5, 
+                    "name": "MS Wade", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "bowled TA Boult"
+                }, 
+                {
+                    "runs": 0, 
+                    "balls": 1, 
+                    "name": "GJ Bailey", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 91, 
+                    "overs": 10.0, 
+                    "name": "MJ Henry", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 80, 
+                    "overs": 10.0, 
+                    "name": "TA Boult", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 47, 
+                    "overs": 10.0, 
+                    "name": "MJ Santner", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 63, 
+                    "overs": 10.0, 
+                    "name": "TG Southee", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 74, 
+                    "overs": 9.0, 
+                    "name": "C de Grandhomme", 
+                    "maiden": 0, 
+                    "wickets": 1
+                }, 
+                {
+                    "runs": 12, 
+                    "overs": 1.0, 
+                    "name": "JDS Neesham", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }, 
+        {
+            "fow": [
+                {
+                    "over": 5.4, 
+                    "score": 40, 
+                    "name": "TWM Latham", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 8.3, 
+                    "score": 52, 
+                    "name": "MJ Guptill", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 31.0, 
+                    "score": 177, 
+                    "name": "JDS Neesham", 
+                    "wkt_nbr": 3
+                }, 
+                {
+                    "over": 33.3, 
+                    "score": 191, 
+                    "name": "C Munro", 
+                    "wkt_nbr": 4
+                }, 
+                {
+                    "over": 38.4, 
+                    "score": 229, 
+                    "name": "C de Grandhomme", 
+                    "wkt_nbr": 5
+                }, 
+                {
+                    "over": 39.1, 
+                    "score": 232, 
+                    "name": "KS Williamson", 
+                    "wkt_nbr": 6
+                }, 
+                {
+                    "over": 40.5, 
+                    "score": 236, 
+                    "name": "MJ Santner", 
+                    "wkt_nbr": 7
+                }, 
+                {
+                    "over": 41.5, 
+                    "score": 243, 
+                    "name": "TG Southee", 
+                    "wkt_nbr": 8
+                }, 
+                {
+                    "over": 45.1, 
+                    "score": 254, 
+                    "name": "MJ Henry", 
+                    "wkt_nbr": 9
+                }, 
+                {
+                    "over": 47.2, 
+                    "score": 262, 
+                    "name": "BJ Watling", 
+                    "wkt_nbr": 10
+                }
+            ], 
+            "summary": {
+                "runs": 262, 
+                "bowlteam": "Australia", 
+                "batteam": "New Zealand", 
+                "wickets": 10, 
+                "inning_no": 2, 
+                "overs": 47.2
+            }, 
+            "batting": [
+                {
+                    "runs": 45, 
+                    "balls": 33, 
+                    "name": "MJ Guptill", 
+                    "fours": 7, 
+                    "six": 1, 
+                    "dismissal": "caught MS Wade bowled PJ Cummins"
+                }, 
+                {
+                    "runs": 4, 
+                    "balls": 12, 
+                    "name": "TWM Latham", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught and bowled bowled JR Hazlewood"
+                }, 
+                {
+                    "runs": 81, 
+                    "balls": 80, 
+                    "name": "KS Williamson", 
+                    "fours": 5, 
+                    "six": 2, 
+                    "dismissal": "caught DA Warner bowled PJ Cummins"
+                }, 
+                {
+                    "runs": 74, 
+                    "balls": 83, 
+                    "name": "JDS Neesham", 
+                    "fours": 7, 
+                    "six": 1, 
+                    "dismissal": "caught MA Starc bowled JR Hazlewood"
+                }, 
+                {
+                    "runs": 11, 
+                    "balls": 12, 
+                    "name": "C Munro", 
+                    "fours": 1, 
+                    "six": 1, 
+                    "dismissal": "caught MR Marsh bowled JP Faulkner"
+                }, 
+                {
+                    "runs": 12, 
+                    "balls": 14, 
+                    "name": "C de Grandhomme", 
+                    "fours": 0, 
+                    "six": 1, 
+                    "dismissal": "caught MS Wade bowled MA Starc"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 5, 
+                    "name": "MJ Santner", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "bowled MA Starc"
+                }, 
+                {
+                    "runs": 17, 
+                    "balls": 22, 
+                    "name": "BJ Watling", 
+                    "fours": 2, 
+                    "six": 0, 
+                    "dismissal": "caught DA Warner bowled JP Faulkner"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 4, 
+                    "name": "TG Southee", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught GJ Bailey bowled PJ Cummins"
+                }, 
+                {
+                    "runs": 7, 
+                    "balls": 13, 
+                    "name": "MJ Henry", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "caught JP Faulkner bowled PJ Cummins"
+                }, 
+                {
+                    "runs": 2, 
+                    "balls": 6, 
+                    "name": "TA Boult", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "not out"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 52, 
+                    "overs": 10.0, 
+                    "name": "MA Starc", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 42, 
+                    "overs": 9.0, 
+                    "name": "JR Hazlewood", 
+                    "maiden": 1, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 41, 
+                    "overs": 10.0, 
+                    "name": "PJ Cummins", 
+                    "maiden": 0, 
+                    "wickets": 4
+                }, 
+                {
+                    "runs": 31, 
+                    "overs": 7.0, 
+                    "name": "TM Head", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 69, 
+                    "overs": 8.2, 
+                    "name": "JP Faulkner", 
+                    "maiden": 0, 
+                    "wickets": 2
+                }, 
+                {
+                    "runs": 26, 
+                    "overs": 3.0, 
+                    "name": "MR Marsh", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Canberra", 
+        "venue": "Manuka Oval", 
+        "teams": "Australia vs New Zealand", 
+        "mtype": "ODI", 
+        "mom": "DA Warner", 
+        "date": "2016-12-06", 
+        "id": "1001373"
+    }
+}

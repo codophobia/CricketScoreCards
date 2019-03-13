@@ -1,0 +1,113 @@
+{
+    "innings": [
+        {
+            "fow": [
+                {
+                    "over": 7.1, 
+                    "score": 40, 
+                    "name": "BB McCullum", 
+                    "wkt_nbr": 1
+                }, 
+                {
+                    "over": 26.5, 
+                    "score": 139, 
+                    "name": "TWM Latham", 
+                    "wkt_nbr": 2
+                }, 
+                {
+                    "over": 28.5, 
+                    "score": 145, 
+                    "name": "LRPL Taylor", 
+                    "wkt_nbr": 3
+                }
+            ], 
+            "summary": {
+                "runs": 145, 
+                "bowlteam": "Sri Lanka", 
+                "batteam": "New Zealand", 
+                "wickets": 3, 
+                "inning_no": 1, 
+                "overs": 28.5
+            }, 
+            "batting": [
+                {
+                    "runs": 66, 
+                    "balls": 78, 
+                    "name": "MJ Guptill", 
+                    "fours": 4, 
+                    "six": 3, 
+                    "dismissal": "not out"
+                }, 
+                {
+                    "runs": 28, 
+                    "balls": 22, 
+                    "name": "BB McCullum", 
+                    "fours": 2, 
+                    "six": 2, 
+                    "dismissal": "caught KMDN Kulasekara bowled AD Mathews"
+                }, 
+                {
+                    "runs": 42, 
+                    "balls": 65, 
+                    "name": "TWM Latham", 
+                    "fours": 4, 
+                    "six": 0, 
+                    "dismissal": "bowled AD Mathews"
+                }, 
+                {
+                    "runs": 3, 
+                    "balls": 8, 
+                    "name": "LRPL Taylor", 
+                    "fours": 0, 
+                    "six": 0, 
+                    "dismissal": "lbw bowled AD Mathews"
+                }
+            ], 
+            "bowling": [
+                {
+                    "runs": 35, 
+                    "overs": 6.0, 
+                    "name": "KMDN Kulasekara", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 30, 
+                    "overs": 6.0, 
+                    "name": "KTGD Prasad", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 21, 
+                    "overs": 6.5, 
+                    "name": "AD Mathews", 
+                    "maiden": 2, 
+                    "wickets": 3
+                }, 
+                {
+                    "runs": 30, 
+                    "overs": 7.0, 
+                    "name": "SMSM Senanayake", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }, 
+                {
+                    "runs": 24, 
+                    "overs": 3.0, 
+                    "name": "NLTC Perera", 
+                    "maiden": 0, 
+                    "wickets": 0
+                }
+            ]
+        }
+    ], 
+    "matchinfo": {
+        "city": "Auckland", 
+        "venue": "Eden Park", 
+        "teams": "New Zealand vs Sri Lanka", 
+        "mtype": "ODI", 
+        "date": "2015-01-17", 
+        "id": "749785"
+    }
+}
